@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7147ce2-86e8-4e6d-90ea-4199a3c77db5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ API_automation/beautifulsoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ API_automation/delete_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ API_automation/getmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ API_automation/patch method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ API_automation/postmethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ API_automation/put_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ API_automation/xmling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ Python Advance ProgrammingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/Enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/FileHandling/CSVFilehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/FileHandling/JSONFilehandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/FileHandling/xmlhandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsession_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsession_doctor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsession_fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsesssion1_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day2_feb6/labsession_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day2_feb6/labsession_lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsession _exceptionhandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsession_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsessiongenerators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsessioniterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsessionrandom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day4_feb9/heritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day4_feb9/labsession_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day5_feb10/labsession_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day6_feb11/labsession_RE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day7_feb12/labsession _basicOfAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day7_feb12/labsessionAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/day8_feb13/labsessionofsoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/labSession_enum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/labsession_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/LabSessions/labsession_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/employee.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/employee.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/nestedjson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/updatejson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/updatexml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/writecsv.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/writejson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dataformats/writexml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/desceiptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/filedownload_multithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/generators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/iter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonProgramming/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/childcal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptionhandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multithreading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/META.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/daimond with super.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/daimond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/destructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/hierarchy inherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/match_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/multiplle inherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/parameterzied_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/poly_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/polyphorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/singleinherit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paramiko/paramiko.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/TestFixture_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_Discovery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_Parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_ParameterizedFixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_Prameterization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_SimpleFixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_grouping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_parametrization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_skip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_st_Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_st_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_st_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_st_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_xfail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/test_customer_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/test_healthcare_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/racecondition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/response _validation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subproccessmodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thread.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="39EwEmkQG9oTU68MV6ed2EUzFWx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in Test_Discovery.py.executor": "Run",
+    "Python tests.Python tests in Test_Parallel.py.executor": "Run",
+    "Python tests.Python tests in Test_ParameterizedFixture.py.executor": "Run",
+    "Python tests.Python tests in Test_Prameterization.py.executor": "Run",
+    "Python tests.Python tests in Test_SimpleFixture.py.executor": "Run",
+    "Python tests.Python tests in Test_grouping.py.executor": "Run",
+    "Python tests.Python tests in Test_parametrization.py.executor": "Run",
+    "Python tests.Python tests in Test_skip.py.executor": "Run",
+    "Python tests.Python tests in Test_st_Module.py.executor": "Run",
+    "Python tests.Python tests in Test_st_class.py.executor": "Run",
+    "Python tests.Python tests in Test_st_method.py.executor": "Run",
+    "Python tests.Python tests in Test_xfail.py.executor": "Run",
+    "Python tests.Python tests in labsession_fixture.py.executor": "Run",
+    "Python tests.Python tests in test_customer_api.py.executor": "Run",
+    "Python tests.Python tests in test_discovery.py.executor": "Run",
+    "Python tests.Python tests in test_healthcare_api.py.executor": "Run",
+    "Python.CSVFilehandling.executor": "Run",
+    "Python.Enums.executor": "Run",
+    "Python.JSONFilehandling.executor": "Run",
+    "Python.META.executor": "Run",
+    "Python.Range.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.beautifulsoup.executor": "Run",
+    "Python.childcal.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.comp.executor": "Run",
+    "Python.constructors.executor": "Run",
+    "Python.daimond with super.executor": "Run",
+    "Python.daimond.executor": "Run",
+    "Python.decorator.executor": "Run",
+    "Python.delete_method.executor": "Run",
+    "Python.desceiptor.executor": "Run",
+    "Python.destructor.executor": "Run",
+    "Python.dictionary.executor": "Run",
+    "Python.exceptionhandling.executor": "Run",
+    "Python.filedownload_multithreading.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.generators.executor": "Run",
+    "Python.getmethod.executor": "Run",
+    "Python.heritance.executor": "Run",
+    "Python.hierarchy inherit.executor": "Run",
+    "Python.iter.executor": "Run",
+    "Python.labSession_enum.executor": "Run",
+    "Python.labsession _basicOfAPI.executor": "Run",
+    "Python.labsession _exceptionhandling.executor": "Run",
+    "Python.labsessionAPI.executor": "Run",
+    "Python.labsession_RE.executor": "Run",
+    "Python.labsession_app.executor": "Run",
+    "Python.labsession_dict.executor": "Run",
+    "Python.labsession_doctor.executor": "Run",
+    "Python.labsession_lambda.executor": "Run",
+    "Python.labsession_list.executor": "Run",
+    "Python.labsession_module.executor": "Run",
+    "Python.labsession_oops.executor": "Run",
+    "Python.labsession_poly.executor": "Run",
+    "Python.labsession_range.executor": "Run",
+    "Python.labsessiongenerators.executor": "Run",
+    "Python.labsessioniterators.executor": "Run",
+    "Python.labsessionofsoup.executor": "Run",
+    "Python.labsessionrandom.executor": "Run",
+    "Python.labsesssion1_soup.executor": "Run",
+    "Python.lambda.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.match_search.executor": "Run",
+    "Python.modules.executor": "Run",
+    "Python.multiplle inherit.executor": "Run",
+    "Python.multithreading.executor": "Debug",
+    "Python.parameterzied_method.executor": "Run",
+    "Python.patch method.executor": "Run",
+    "Python.pathlib.executor": "Run",
+    "Python.poly_operator.executor": "Run",
+    "Python.polyphorphism.executor": "Run",
+    "Python.postmethod.executor": "Run",
+    "Python.put_method.executor": "Run",
+    "Python.python.executor": "Run",
+    "Python.racecondition.executor": "Run",
+    "Python.range.executor": "Run",
+    "Python.response _validation.executor": "Run",
+    "Python.singleinherit.executor": "Run",
+    "Python.subproccessmodule.executor": "Run",
+    "Python.thread.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.xmlhandling.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/MUSKAN MISHRA/PycharmProjects/ Python Advance ProgrammingProject"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7bb8055f9097-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.28238.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7147ce2-86e8-4e6d-90ea-4199a3c77db5" name="Changes" comment="" />
+      <created>1770274432700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770274432700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PythonProgramming/Range.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multithreading.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
