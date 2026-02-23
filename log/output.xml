@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.3 on win32)" generated="2026-02-18T12:53:20.946689" rpa="false" schemaversion="5">
+<suite id="s1" name="Keywords" source="C:\Users\priya\PycharmProjects\Feb2026wiproRoboFramework\TestSuite\Keywords.robot">
+<test id="s1-t1" name="verify login with valid credentials" line="8">
+<kw name="Login">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.195425" level="INFO">Enter Username</msg>
+<arg>Enter Username</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.195011" elapsed="0.001557"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.197041" level="INFO">Enter Password</msg>
+<arg>Enter Password</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.196762" elapsed="0.000362"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.197425" level="INFO">Click on login button</msg>
+<arg>Click on login button</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.197234" elapsed="0.000253"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.197852" level="INFO">user in on the home page</msg>
+<arg>user in on the home page</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.197624" elapsed="0.000300"/>
+</kw>
+<status status="PASS" start="2026-02-18T12:53:21.194363" elapsed="0.003689"/>
+</kw>
+<status status="PASS" start="2026-02-18T12:53:21.193679" elapsed="0.004502"/>
+</test>
+<test id="s1-t2" name="verify login with valid credentials" line="12">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.199122" level="INFO">User selects the products</msg>
+<arg>User selects the products</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.198930" elapsed="0.000258"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.199463" level="INFO">User adds the product to the cart</msg>
+<arg>User adds the product to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.199287" elapsed="0.000236"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T12:53:21.199783" level="INFO">user verifies that the product with details is added to the cart</msg>
+<arg>user verifies that the product with details is added to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T12:53:21.199616" elapsed="0.000228"/>
+</kw>
+<status status="PASS" start="2026-02-18T12:53:21.198473" elapsed="0.001466"/>
+</test>
+<status status="PASS" start="2026-02-18T12:53:20.957213" elapsed="0.243104"/>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Keywords" id="s1" pass="2" fail="0" skip="0">Keywords</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-02-18T12:53:21.198556" level="WARN">Multiple tests with name 'verify login with valid credentials' executed in suite 'Keywords'.</msg>
+</errors>
+</robot>

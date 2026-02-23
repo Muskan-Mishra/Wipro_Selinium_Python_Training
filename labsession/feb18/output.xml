@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.2 on win32)" generated="2026-02-20T17:25:59.489713" rpa="false" schemaversion="5">
+<suite id="s1" name="labsession Auto" source="C:\Users\MUSKAN MISHRA\PycharmProjects\WiproRobotFramework\labsession\labsession_Auto.robot">
+<test id="s1-t1" name="Add Item To Cart And Place Order" line="19">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:00.122944" level="INFO">Opening browser 'chrome' to base url 'https://practice.automationtesting.in/'.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-20T17:26:00.122219" elapsed="6.811783"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-20T17:26:06.935225" elapsed="0.173934"/>
+</kw>
+<kw name="Set Selenium Implicit Wait" owner="SeleniumLibrary">
+<arg>10 seconds</arg>
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="PASS" start="2026-02-20T17:26:07.112247" elapsed="0.017708"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:07.140736" level="INFO">Clicking element 'xpath=//a[contains(text(),'Shop')]'.</msg>
+<arg>xpath=//a[contains(text(),'Shop')]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:07.139804" elapsed="1.693128"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath=//ul[contains(@class,'products')]</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:26:08.835571" elapsed="0.357956"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:09.194861" level="INFO">Clicking element 'xpath=(//ul[contains(@class,'products')]//h3)[1]'.</msg>
+<arg>xpath=(//ul[contains(@class,'products')]//h3)[1]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:09.194316" elapsed="2.299255"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath=//button[contains(text(),'Add to basket')]</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:26:11.494342" elapsed="0.243684"/>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:11.739541" level="INFO">Clicking button 'xpath=//button[contains(text(),'Add to basket')]'.</msg>
+<arg>xpath=//button[contains(text(),'Add to basket')]</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:11.738930" elapsed="2.367691"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath=//a[contains(text(),'View Basket')]</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:26:14.109451" elapsed="0.055278"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:14.166972" level="INFO">Clicking element 'xpath=//a[contains(text(),'View Basket')]'.</msg>
+<arg>xpath=//a[contains(text(),'View Basket')]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:14.166089" elapsed="1.974652"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath=//a[contains(text(),'Proceed to Checkout')]</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:26:16.142519" elapsed="0.087402"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:16.231529" level="INFO">Clicking element 'xpath=//a[contains(text(),'Proceed to Checkout')]'.</msg>
+<arg>xpath=//a[contains(text(),'Proceed to Checkout')]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:16.230925" elapsed="1.658651"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>id=billing_first_name</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:26:17.890730" elapsed="0.417171"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:18.309454" level="INFO">Typing text 'Muskan' into text field 'id=billing_first_name'.</msg>
+<arg>id=billing_first_name</arg>
+<arg>${FIRSTNAME}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:18.308751" elapsed="0.235412"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:18.547203" level="INFO">Typing text 'Mishra' into text field 'id=billing_last_name'.</msg>
+<arg>id=billing_last_name</arg>
+<arg>${LASTNAME}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:18.546386" elapsed="0.249218"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:18.797292" level="INFO">Typing text 'muskan123@test.com' into text field 'id=billing_email'.</msg>
+<arg>id=billing_email</arg>
+<arg>${EMAIL}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:18.796544" elapsed="0.328618"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:19.126682" level="INFO">Typing text '9876543210' into text field 'id=billing_phone'.</msg>
+<arg>id=billing_phone</arg>
+<arg>${PHONE}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:19.126064" elapsed="0.203748"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:19.331348" level="INFO">Typing text '123 Street' into text field 'id=billing_address_1'.</msg>
+<arg>id=billing_address_1</arg>
+<arg>${ADDRESS}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:19.330770" elapsed="0.172135"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:19.504270" level="INFO">Typing text 'Delhi' into text field 'id=billing_city'.</msg>
+<arg>id=billing_city</arg>
+<arg>${CITY}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:19.503639" elapsed="0.160760"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:19.665797" level="INFO">Typing text '110001' into text field 'id=billing_postcode'.</msg>
+<arg>id=billing_postcode</arg>
+<arg>${PINCODE}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:19.665169" elapsed="0.151988"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:19.818503" level="INFO">Clicking element 'id=select2-chosen-1'.</msg>
+<arg>id=select2-chosen-1</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:19.817915" elapsed="0.355905"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:20.246652" level="INFO">Typing text 'India' into text field 'id=s2id_autogen1_search'.</msg>
+<arg>id=s2id_autogen1_search</arg>
+<arg>India</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:26:20.245728" elapsed="0.279027"/>
+</kw>
+<kw name="Press Keys" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:20.527544" level="INFO">Sending key(s) ('ENTER',) to id=s2id_autogen1_search element.</msg>
+<msg time="2026-02-20T17:26:20.857156" level="INFO">Pressing special key ENTER to element.</msg>
+<msg time="2026-02-20T17:26:20.857550" level="INFO">Releasing special key ENTER.</msg>
+<arg>id=s2id_autogen1_search</arg>
+<arg>ENTER</arg>
+<doc>Simulates the user pressing key(s) to an element or on the active browser.</doc>
+<status status="PASS" start="2026-02-20T17:26:20.526076" elapsed="0.509438"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:26:21.038166" level="INFO">Clicking element 'xpath=//input[@id='payment_method_cod']'.</msg>
+<msg time="2026-02-20T17:26:21.542549" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-5.png"&gt;&lt;img src="selenium-screenshot-5.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2026-02-20T17:26:21.543050" level="FAIL">StaleElementReferenceException: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.76); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff646df4435
+	0x7ff646df4490
+	0x7ff646b8d49d
+	0x7ff646b95411
+	0x7ff646b98534
+	0x7ff646b985ff
+	0x7ff646bf056a
+	0x7ff646bed971
+	0x7ff646beade5
+	0x7ff646be9c97
+	0x7ff646bdb1c6
+	0x7ff646c117ca
+	0x7ff646bdaa46
+	0x7ff646c35728
+	0x7ff646bd8e38
+	0x7ff646bd9d23
+	0x7ff6470c3b30
+	0x7ff6470be3b8
+	0x7ff6470de72a
+	0x7ff646e107e5
+	0x7ff646e1978c
+	0x7ff646dfd794
+	0x7ff646dfd946
+	0x7ff646de3457
+	0x7ffd8d66e8d7
+	0x7ffd8e9ec40c
+</msg>
+<arg>xpath=//input[@id='payment_method_cod']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="FAIL" start="2026-02-20T17:26:21.036884" elapsed="0.811591">StaleElementReferenceException: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.76); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff646df4435
+	0x7ff646df4490
+	0x7ff646b8d49d
+	0x7ff646b95411
+	0x7ff646b98534
+	0x7ff646b985ff
+	0x7ff646bf056a
+	0x7ff646bed971
+	0x7ff646beade5
+	0x7ff646be9c97
+	0x7ff646bdb1c6
+	0x7ff646c117ca
+	0x7ff646bdaa46
+	0x7ff646c35728
+	0x7ff646bd8e38
+	0x7ff646bd9d23
+	0x7ff6470c3b30
+	0x7ff6470be3b8
+	0x7ff6470de72a
+	0x7ff646e107e5
+	0x7ff646e1978c
+	0x7ff646dfd794
+	0x7ff646dfd946
+	0x7ff646de3457
+	0x7ffd8d66e8d7
+	0x7ffd8e9ec40c
+</status>
+</kw>
+<kw name="Click Button" owner="SeleniumLibrary">
+<arg>xpath=//input[@id='place_order']</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<status status="NOT RUN" start="2026-02-20T17:26:21.849415" elapsed="0.000132"/>
+</kw>
+<kw name="Wait Until Page Contains" owner="SeleniumLibrary">
+<arg>Thank you. Your order has been received.</arg>
+<arg>15s</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<status status="NOT RUN" start="2026-02-20T17:26:21.850503" elapsed="0.000117"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="NOT RUN" start="2026-02-20T17:26:21.851202" elapsed="0.000105"/>
+</kw>
+<status status="FAIL" start="2026-02-20T17:26:00.119658" elapsed="21.732467">StaleElementReferenceException: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.76); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff646df4435
+	0x7ff646df4490
+	0x7ff646b8d49d
+	0x7ff646b95411
+	0x7ff646b98534
+	0x7ff646b985ff
+	0x7ff646bf056a
+	0x7ff646bed971
+	0x7ff646beade5
+	0x7ff646be9c97
+	0x7ff646bdb1c6
+	0x7ff646c117ca
+	0x7ff646bdaa46
+	0x7ff646c35728
+	0x7ff646bd8e38
+	0x7ff646bd9d23
+	0x7ff6470c3b30
+	0x7ff6470be3b8
+	0x7ff6470de72a
+	0x7ff646e107e5
+	0x7ff646e1978c
+	0x7ff646dfd794
+	0x7ff646dfd946
+	0x7ff646de3457
+	0x7ffd8d66e8d7
+	0x7ffd8e9ec40c
+</status>
+</test>
+<status status="FAIL" start="2026-02-20T17:25:59.493958" elapsed="22.391041"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="labsession Auto" id="s1" pass="0" fail="1" skip="0">labsession Auto</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

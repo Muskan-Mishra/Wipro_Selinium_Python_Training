@@ -1,0 +1,33 @@
+1771668971333	geckodriver	INFO	Listening on 127.0.0.1:65172
+1771668974754	mozrunner::runner	INFO	Running command: "C:\\Users\\MUSKAN MISHRA\\.cache\\selenium\\firefox\\win64\\147.0.4\\firefox.exe" "--marionette" "--remote- ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MUSKAN~1\\AppData\\Local\\Temp\\rust_mozprofileTnMJ9S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771668976415	Marionette	INFO	Marionette enabled
+1771668976758	Marionette	INFO	Listening on port 65183
+WebDriver BiDi listening on ws://127.0.0.1:65173
+Read port: 65183
+1771668977035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 2702
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 2337 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 2337 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 2337: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 2337 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 2337 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 2337 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+1771668990388	Marionette	INFO	Stopped listening on port 65183
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

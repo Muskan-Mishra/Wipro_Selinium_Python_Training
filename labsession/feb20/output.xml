@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.3 on win32)" generated="2026-02-20T17:19:14.426260" rpa="false" schemaversion="5">
+<suite id="s1" name="Shopping" source="C:\Users\priya\PycharmProjects\Feb2026wiproRoboFramework\NewProject\LabSEssions\Feb20_lab\Shopping.robot">
+<test id="s1-t1" name="Add Item To Cart And Checkout" line="9">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:14.624365" level="INFO">Opening browser 'chrome' to base url 'https://practice.automationtesting.in/'.</msg>
+<arg>${URL}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-20T17:19:14.624100" elapsed="3.833167"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-20T17:19:18.457634" elapsed="0.035164"/>
+</kw>
+<kw name="Set Selenium Implicit Wait" owner="SeleniumLibrary">
+<arg>5s</arg>
+<doc>Sets the implicit wait value used by Selenium.</doc>
+<status status="PASS" start="2026-02-20T17:19:18.493339" elapsed="0.003331"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:18.498316" level="INFO">Clicking element 'xpath://a[text()='Shop']'.</msg>
+<arg>xpath://a[text()='Shop']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:19:18.497622" elapsed="3.063002"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:21.561308" level="INFO">Clicking element 'xpath://body'.</msg>
+<arg>xpath://body</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:19:21.561012" elapsed="1.096223"/>
+</kw>
+<kw name="Scroll Element Into View" owner="SeleniumLibrary">
+<arg>xpath:(//a[text()='Add to basket'])[1]</arg>
+<doc>Scrolls the element identified by ``locator`` into view.</doc>
+<status status="PASS" start="2026-02-20T17:19:22.657537" elapsed="0.326070"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:22.984088" level="INFO">Clicking element 'xpath:(//a[text()='Add to basket'])[1]'.</msg>
+<arg>xpath:(//a[text()='Add to basket'])[1]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:19:22.983891" elapsed="0.050208"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath://a[@title='View your shopping cart']</arg>
+<arg>15s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:19:23.035746" elapsed="0.276280"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:23.312521" level="INFO">Clicking element 'xpath://a[@title='View your shopping cart']'.</msg>
+<arg>xpath://a[@title='View your shopping cart']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:19:23.312331" elapsed="1.758206"/>
+</kw>
+<kw name="Element Should Be Visible" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:25.086534" level="INFO">Element 'xpath://a[contains(@class,'remove')]' is displayed.</msg>
+<arg>xpath://a[contains(@class,'remove')]</arg>
+<doc>Verifies that the element identified by ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:19:25.070905" elapsed="0.015732"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath://a[normalize-space(text())='Proceed to Checkout']</arg>
+<arg>15s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:19:25.086895" elapsed="0.011693"/>
+</kw>
+<kw name="Scroll Element Into View" owner="SeleniumLibrary">
+<arg>xpath://a[normalize-space(text())='Proceed to Checkout']</arg>
+<doc>Scrolls the element identified by ``locator`` into view.</doc>
+<status status="PASS" start="2026-02-20T17:19:25.098870" elapsed="0.272277"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:25.371696" level="INFO">Clicking element 'xpath://a[normalize-space(text())='Proceed to Checkout']'.</msg>
+<arg>xpath://a[normalize-space(text())='Proceed to Checkout']</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-20T17:19:25.371475" elapsed="2.081113"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath://h3[text()='Billing Details']</arg>
+<arg>10s</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:19:27.452900" elapsed="0.016348"/>
+</kw>
+<kw name="Element Should Be Visible" owner="SeleniumLibrary">
+<msg time="2026-02-20T17:19:27.478754" level="INFO">Element 'xpath://h3[text()='Billing Details']' is displayed.</msg>
+<arg>xpath://h3[text()='Billing Details']</arg>
+<doc>Verifies that the element identified by ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-20T17:19:27.469527" elapsed="0.009322"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2026-02-20T17:19:27.479143" elapsed="2.150018"/>
+</kw>
+<status status="PASS" start="2026-02-20T17:19:14.623258" elapsed="15.006282"/>
+</test>
+<status status="PASS" start="2026-02-20T17:19:14.427614" elapsed="15.202476"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Shopping" id="s1" pass="1" fail="0" skip="0">Shopping</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

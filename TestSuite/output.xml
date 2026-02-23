@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.2 on win32)" generated="2026-02-18T15:05:00.126604" rpa="false" schemaversion="5">
+<suite id="s1" name="SuiteLevelST" source="C:\Users\MUSKAN MISHRA\PycharmProjects\WiproRobotFramework\TestSuite\SuiteLevelST.robot">
+<test id="s1-t1" name="Verify login with valid credentials" line="10">
+<kw name="Login" owner="Resources">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.828660" level="INFO">Enter username</msg>
+<arg>Enter username</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.827987" elapsed="0.000914"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.829831" level="INFO">Enter password</msg>
+<arg>Enter password</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.829347" elapsed="0.000603"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.830537" level="INFO">Click on login button</msg>
+<arg>Click on login button</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.830195" elapsed="0.000419"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.831127" level="INFO">User is on the home page</msg>
+<arg>User is on the home page</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.830832" elapsed="0.000384"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:05:00.826423" elapsed="0.004918"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:05:00.824455" elapsed="0.007604"/>
+</test>
+<test id="s1-t2" name="Verify Add to cart functionality" line="14">
+<kw name="Login" owner="Resources">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.837068" level="INFO">Enter username</msg>
+<arg>Enter username</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.836090" elapsed="0.001186"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.838054" level="INFO">Enter password</msg>
+<arg>Enter password</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.837587" elapsed="0.000567"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.839278" level="INFO">Click on login button</msg>
+<arg>Click on login button</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.838375" elapsed="0.001251"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.840697" level="INFO">User is on the home page</msg>
+<arg>User is on the home page</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.840054" elapsed="0.000747"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:05:00.835164" elapsed="0.005790"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.842133" level="INFO">User selects the product</msg>
+<arg>User selects the product</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.841711" elapsed="0.000503"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.843097" level="INFO">User adds the product to the cart</msg>
+<arg>User adds the product to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.842778" elapsed="0.000392"/>
+</kw>
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-02-18T15:05:00.844499" level="INFO">User verifies that the product with details is added to the cart</msg>
+<arg>User verifies that the product with details is added to the cart</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-02-18T15:05:00.844024" elapsed="0.000668"/>
+</kw>
+<status status="PASS" start="2026-02-18T15:05:00.833888" elapsed="0.011480"/>
+</test>
+<status status="PASS" start="2026-02-18T15:05:00.134469" elapsed="0.712805"/>
+</suite>
+<statistics>
+<total>
+<stat pass="2" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="SuiteLevelST" id="s1" pass="2" fail="0" skip="0">SuiteLevelST</stat>
+</suite>
+</statistics>
+<errors>
+<msg time="2026-02-18T15:05:00.107437" level="ERROR">Error in file 'C:\Users\MUSKAN MISHRA\PycharmProjects\WiproRobotFramework\TestSuite\SuiteLevelST.robot' on line 6: Non-existing setting 'Suite Setup Open DB'.</msg>
+<msg time="2026-02-18T15:05:00.107900" level="ERROR">Error in file 'C:\Users\MUSKAN MISHRA\PycharmProjects\WiproRobotFramework\TestSuite\SuiteLevelST.robot' on line 7: Non-existing setting 'Suite Teardown log Close DB'.</msg>
+</errors>
+</robot>
