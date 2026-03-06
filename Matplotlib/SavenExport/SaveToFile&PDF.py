@@ -1,0 +1,19 @@
+import matplotlib.pyplot as plt
+import pandas as pd
+
+
+
+data ={
+    "Day": ["Mon","Tue","Wed","Thu","Fri"],
+    "Steps":[4000,5500,7000,6500,8000]
+}
+df =pd.DataFrame(data)
+df.plot(x="Day",y="Steps",kind="bar")
+plt.title("Daily Steps Count")
+plt.xlabel("Day")
+plt.ylabel("Steps")
+#plt.show()
+#save as image -jpg
+plt.savefig("BarChart.jpg")
+#save as pdf
+plt.savefig("Bar.pdf",format="pdf")

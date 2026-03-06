@@ -1,0 +1,9 @@
+{
+  "environment": "qa",
+  "qa": {
+    "base_url": "https://reqres.in/api"
+  },
+  "dev": {
+    "base_url": "https://jsonplaceholder.typicode.com"
+  }
+}

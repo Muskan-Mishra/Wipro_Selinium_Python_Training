@@ -1,6 +1,3 @@
-from PythonProgramming.LabSessions.day2_feb6.labsession_dict import students
-
-
 class Student:
 
     studentname = "ravi"

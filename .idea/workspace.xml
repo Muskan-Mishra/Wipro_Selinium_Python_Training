@@ -5,7 +5,101 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7147ce2-86e8-4e6d-90ea-4199a3c77db5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Database/Mongodb/DAUsingPandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/MySQLDB/CRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/MySQLDB/DAUsingPandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/day11_feb17/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/day11_feb17/test_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/day11_feb17/test_schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/day11_feb17/test_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/day11_feb17/test_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/day9_feb14/day9_feb14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/feb_28/PandasAndNumpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/march2_database/Retail Data Analysis Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/march2_database/RetailByMongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/march2_database/Student Performance Dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/march2_database/retail_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/march2_database/sales_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabSessions/march2_database/student_performance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/DV/Barplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/DV/Histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/DV/Lineplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/DV/Pieplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/DV/Scatterplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/DV/Simpleplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/Methods/Background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/Methods/Labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/Methods/styleplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matplotlib/SavenExport/SaveToFile&amp;PDF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiProcessing/CPUBoundTasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/NumpyArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/NumpyAttributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/NumpyCreateFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/NumpyIndexSlice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Numpy/NumpyManipulate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenpyxlPandas/Excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/DFManipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/DataFrames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/PandasMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/employees.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas/series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seaborn/DtaVusualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/IOBoundTasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataformats/writejson.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_asseration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_commandLineargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_fixture_Session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/Test_raiseException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest/fixtureDependency.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/FileHandling/CSVFilehandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/CSVFilehandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/FileHandling/JSONFilehandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/JSONFilehandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/FileHandling/xmlhandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/FileHandling/xmlhandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsession_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day10_feb16/labsession_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsession_doctor.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day10_feb16/labsession_doctor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsession_fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day10_feb16/labsession_fixture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day10_feb16/labsesssion1_soup.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day10_feb16/labsesssion1_soup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day2_feb6/labsession_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day2_feb6/labsession_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day2_feb6/labsession_lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day2_feb6/labsession_lambda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsession _exceptionhandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day3_feb7/labsession _exceptionhandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsession_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day3_feb7/labsession_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsessiongenerators.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day3_feb7/labsessiongenerators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsessioniterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day3_feb7/labsessioniterators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day3_feb7/labsessionrandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day3_feb7/labsessionrandom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day4_feb9/heritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day4_feb9/heritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day4_feb9/labsession_oops.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day4_feb9/labsession_oops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day5_feb10/labsession_poly.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day5_feb10/labsession_poly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day6_feb11/labsession_RE.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day6_feb11/labsession_RE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day7_feb12/labsession _basicOfAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day7_feb12/labsession _basicOfAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day7_feb12/labsessionAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day7_feb12/labsessionAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day7_feb12/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day7_feb12/posts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/day8_feb13/labsessionofsoup.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/day8_feb13/labsessionofsoup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/labSession_enum.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/Day1_feb05/labSession_enum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/labsession_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/Day1_feb05/labsession_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/LabSessions/labsession_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/LabSessions/Day1_feb05/labsession_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/employee.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/employee.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/employee.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/employee.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/nestedjson.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/nestedjson.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/updatejson.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/updatejson.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/updatexml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/updatexml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/writecsv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/writecsv.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/writejson.json" beforeDir="false" afterPath="$PROJECT_DIR$/Database/Mongodb/CRUD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonProgramming/dataformats/writexml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dataformats/writexml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/childcal.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/childcal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exceptionhandling.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/exceptionhandling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreading.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/multithreading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oops/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/racecondition.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/racecondition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/response _validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/response _validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subproccessmodule.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytest/subproccessmodule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProgramming/thread.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +143,35 @@
     "Python tests.Python tests in test_customer_api.py.executor": "Run",
     "Python tests.Python tests in test_discovery.py.executor": "Run",
     "Python tests.Python tests in test_healthcare_api.py.executor": "Run",
+    "Python.Background.executor": "Run",
+    "Python.Barplot.executor": "Run",
+    "Python.CPUBoundTasks.executor": "Run",
+    "Python.CRUD.executor": "Run",
     "Python.CSVFilehandling.executor": "Run",
+    "Python.DAUsingPandas.executor": "Run",
+    "Python.DFManipulation.executor": "Run",
+    "Python.DtaVusualization.executor": "Run",
     "Python.Enums.executor": "Run",
+    "Python.Excel.executor": "Run",
+    "Python.Histogram.executor": "Run",
+    "Python.IOBoundTasks.executor": "Run",
     "Python.JSONFilehandling.executor": "Run",
+    "Python.Labels.executor": "Run",
+    "Python.Lineplot.executor": "Run",
     "Python.META.executor": "Run",
+    "Python.NumpyArrays.executor": "Run",
+    "Python.NumpyCreateFunction.executor": "Run",
+    "Python.NumpyIndexSlice.executor": "Run",
+    "Python.NumpyManipulate.executor": "Run",
+    "Python.PandasAndNumpy.executor": "Run",
+    "Python.Pieplot.executor": "Run",
     "Python.Range.executor": "Run",
+    "Python.Retail Data Analysis Code.executor": "Run",
+    "Python.RetailByMongodb.executor": "Run",
+    "Python.SaveToFile&PDF.executor": "Run",
+    "Python.Scatterplot.executor": "Run",
+    "Python.Simpleplot.executor": "Run",
+    "Python.Student Performance Dataset.executor": "Run",
     "Python.app.executor": "Run",
     "Python.beautifulsoup.executor": "Run",
     "Python.childcal.executor": "Run",
@@ -111,7 +229,9 @@
     "Python.racecondition.executor": "Run",
     "Python.range.executor": "Run",
     "Python.response _validation.executor": "Run",
+    "Python.series.executor": "Run",
     "Python.singleinherit.executor": "Run",
+    "Python.styleplot.executor": "Run",
     "Python.subproccessmodule.executor": "Run",
     "Python.thread.executor": "Run",
     "Python.variables.executor": "Run",
@@ -119,10 +239,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/MUSKAN MISHRA/PycharmProjects/ Python Advance ProgrammingProject"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MUSKAN MISHRA\PycharmProjects\ Python Advance ProgrammingProject\LabSessions\march2_database" />
+      <recent name="C:\Users\MUSKAN MISHRA\PycharmProjects\ Python Advance ProgrammingProject\Matplotlib\DV" />
+      <recent name="C:\Users\MUSKAN MISHRA\PycharmProjects\ Python Advance ProgrammingProject\LabSessions\day9_feb14" />
+      <recent name="C:\Users\MUSKAN MISHRA\PycharmProjects\ Python Advance ProgrammingProject" />
+      <recent name="C:\Users\MUSKAN MISHRA\PycharmProjects\ Python Advance ProgrammingProject\LabSessions\Day1_feb05" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -152,7 +281,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/multithreading.py</url>
+          <url>file://$PROJECT_DIR$/PythonProgramming/multithreading.py</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
