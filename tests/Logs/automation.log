@@ -1,0 +1,1853 @@
+2026-03-05 19:06:26,224 : INFO : ====== WebDriver manager ======
+2026-03-05 19:06:28,730 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:06:29,250 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:06:29,754 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:07:01,403 : INFO : Starting Test
+2026-03-05 19:07:01,405 : INFO : Login
+2026-03-05 19:07:08,517 : INFO : ====== WebDriver manager ======
+2026-03-05 19:07:11,139 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:07:11,729 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:07:12,254 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:07:14,406 : INFO : Starting Test
+2026-03-05 19:07:14,416 : INFO : Login
+2026-03-05 19:11:06,212 : INFO : ====== WebDriver manager ======
+2026-03-05 19:11:08,785 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:11:09,378 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:11:09,811 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:11:26,112 : INFO : Starting Test
+2026-03-05 19:11:26,114 : INFO : Login
+2026-03-05 19:11:28,695 : INFO : Add Product
+2026-03-05 19:11:29,446 : INFO : Checkout
+2026-03-05 19:13:46,075 : INFO : ====== WebDriver manager ======
+2026-03-05 19:13:48,542 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:13:48,885 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:13:49,292 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:14:05,651 : INFO : Starting Test
+2026-03-05 19:14:05,652 : INFO : Login
+2026-03-05 19:14:08,195 : INFO : Add Product
+2026-03-05 19:16:17,353 : INFO : ====== WebDriver manager ======
+2026-03-05 19:16:19,820 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:16:20,261 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:16:20,673 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:16:23,002 : INFO : Starting Test
+2026-03-05 19:16:23,026 : INFO : Login
+2026-03-05 19:16:39,476 : INFO : Add Product
+2026-03-05 19:18:16,000 : INFO : ====== WebDriver manager ======
+2026-03-05 19:18:18,436 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:18:19,001 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:18:19,522 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:18:32,341 : INFO : Starting Test
+2026-03-05 19:18:32,343 : INFO : Login
+2026-03-05 19:18:34,029 : INFO : Add Product
+2026-03-05 19:22:22,461 : INFO : ====== WebDriver manager ======
+2026-03-05 19:22:25,165 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:22:25,637 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:22:26,120 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:22:41,923 : INFO : Starting Test
+2026-03-05 19:22:41,926 : INFO : Login
+2026-03-05 19:22:44,541 : INFO : Add Product
+2026-03-05 19:39:06,744 : INFO : ====== WebDriver manager ======
+2026-03-05 19:39:10,594 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:39:11,461 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:39:12,085 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:39:31,813 : INFO : Starting Test
+2026-03-05 19:39:31,823 : INFO : Login
+2026-03-05 19:39:35,005 : INFO : Add Product
+2026-03-05 19:39:35,664 : INFO : Checkout
+2026-03-05 19:39:35,910 : INFO : Continue Checkout
+2026-03-05 19:39:36,621 : INFO : Download Receipt
+2026-03-05 19:42:05,855 : INFO : ====== WebDriver manager ======
+2026-03-05 19:42:09,506 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:42:10,117 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:42:10,816 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:42:39,111 : INFO : Starting Test
+2026-03-05 19:42:39,113 : INFO : Login
+2026-03-05 19:42:42,890 : INFO : Add Product
+2026-03-05 19:42:43,533 : INFO : Checkout
+2026-03-05 19:42:43,767 : INFO : Continue Checkout
+2026-03-05 19:42:45,055 : INFO : Download Receipt
+2026-03-05 19:46:10,570 : INFO : ====== WebDriver manager ======
+2026-03-05 19:46:14,215 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:46:14,858 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:46:15,762 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:46:34,939 : INFO : Starting Test
+2026-03-05 19:46:34,945 : INFO : Login
+2026-03-05 19:46:37,723 : INFO : Add Product
+2026-03-05 19:46:38,325 : INFO : Checkout
+2026-03-05 19:46:38,566 : INFO : Continue Checkout
+2026-03-05 19:46:40,909 : INFO : Download Receipt
+2026-03-05 19:52:21,244 : INFO : ====== WebDriver manager ======
+2026-03-05 19:52:24,881 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:52:25,635 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:52:26,263 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:52:35,033 : INFO : Starting Test
+2026-03-05 19:52:35,035 : INFO : Login
+2026-03-05 19:52:36,592 : INFO : Add Product
+2026-03-05 19:52:37,232 : INFO : Checkout
+2026-03-05 19:52:37,439 : INFO : Continue Checkout
+2026-03-05 19:52:49,573 : INFO : Download Receipt
+2026-03-05 19:53:02,319 : INFO : ====== WebDriver manager ======
+2026-03-05 19:53:06,090 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:53:06,830 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:53:07,437 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:53:11,317 : INFO : Starting Test
+2026-03-05 19:53:11,321 : INFO : Login
+2026-03-05 19:53:29,634 : INFO : Add Product
+2026-03-05 19:53:30,257 : INFO : Checkout
+2026-03-05 19:53:30,456 : INFO : Continue Checkout
+2026-03-05 19:53:31,738 : INFO : Download Receipt
+2026-03-05 19:58:27,508 : INFO : ====== WebDriver manager ======
+2026-03-05 19:58:31,038 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:58:32,037 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 19:58:32,803 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 19:58:52,248 : INFO : Starting Test
+2026-03-05 19:58:52,250 : INFO : Login
+2026-03-05 19:58:54,915 : INFO : Add Product
+2026-03-05 19:58:55,570 : INFO : Checkout
+2026-03-05 19:58:55,780 : INFO : Continue Checkout
+2026-03-05 19:58:56,514 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:15:41,029 : INFO : ====== WebDriver manager ======
+2026-03-05 20:15:43,250 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:15:44,102 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:15:44,422 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:15:50,992 : INFO : Starting Test
+2026-03-05 20:15:50,994 : INFO : Login
+2026-03-05 20:15:51,916 : INFO : Add Product
+2026-03-05 20:15:52,483 : INFO : Checkout
+2026-03-05 20:15:53,052 : INFO : Continue Checkout
+2026-03-05 20:15:55,625 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:19:48,307 : INFO : ====== WebDriver manager ======
+2026-03-05 20:19:50,411 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:19:51,228 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:19:51,558 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:19:57,508 : INFO : Starting Test
+2026-03-05 20:19:57,509 : INFO : Login
+2026-03-05 20:19:58,380 : INFO : Add Product
+2026-03-05 20:19:58,918 : INFO : Checkout
+2026-03-05 20:19:58,996 : INFO : Continue Checkout
+2026-03-05 20:20:01,575 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:23:13,797 : INFO : ====== WebDriver manager ======
+2026-03-05 20:23:15,845 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:23:16,484 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:23:17,055 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:23:24,080 : INFO : Starting Test
+2026-03-05 20:23:24,081 : INFO : Login
+2026-03-05 20:23:24,949 : INFO : Add Product
+2026-03-05 20:23:26,010 : INFO : Checkout
+2026-03-05 20:23:26,585 : INFO : Continue Checkout
+2026-03-05 20:23:27,160 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:38:15,896 : INFO : ====== WebDriver manager ======
+2026-03-05 20:38:18,212 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:38:18,861 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:38:19,210 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:38:24,018 : INFO : Starting Test
+2026-03-05 20:38:24,019 : INFO : Login
+2026-03-05 20:38:24,872 : INFO : Add Product
+2026-03-05 20:38:25,418 : INFO : Checkout
+2026-03-05 20:38:25,518 : INFO : Continue Checkout
+2026-03-05 20:38:26,082 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:38:27,465 : INFO : Verify Order Confirmation
+2026-03-05 20:41:17,972 : INFO : ====== WebDriver manager ======
+2026-03-05 20:41:20,161 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:41:20,597 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:41:21,006 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:41:25,781 : INFO : Starting Test
+2026-03-05 20:41:25,782 : INFO : Login
+2026-03-05 20:41:26,664 : INFO : Add Product
+2026-03-05 20:41:27,204 : INFO : Checkout
+2026-03-05 20:41:27,789 : INFO : Continue Checkout
+2026-03-05 20:41:28,366 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:43:34,922 : INFO : ====== WebDriver manager ======
+2026-03-05 20:43:37,035 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:43:37,464 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:43:37,976 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:43:47,308 : INFO : Starting Test
+2026-03-05 20:43:47,308 : INFO : Login
+2026-03-05 20:43:48,181 : INFO : Add Product
+2026-03-05 20:43:48,730 : INFO : Checkout
+2026-03-05 20:43:48,828 : INFO : Continue Checkout
+2026-03-05 20:43:49,401 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:47:40,859 : INFO : ====== WebDriver manager ======
+2026-03-05 20:47:43,051 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:47:43,738 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:47:44,149 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:47:45,876 : INFO : Starting Test
+2026-03-05 20:47:45,877 : INFO : Login
+2026-03-05 20:47:49,607 : INFO : Add Product
+2026-03-05 20:47:50,171 : INFO : Checkout
+2026-03-05 20:47:50,259 : INFO : Continue Checkout
+2026-03-05 20:47:50,827 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:47:51,132 : INFO : Verify Order Confirmation
+2026-03-05 20:48:21,344 : ERROR : Test failed due to: Order confirmation not visible!
+assert False
+ +  where False = verify_order_confirmation()
+ +    where verify_order_confirmation = <pages.CheckoutConfirmationPage.CheckoutConfirmationPage object at 0x00000219D20FA510>.verify_order_confirmation
+2026-03-05 20:59:27,327 : INFO : ====== WebDriver manager ======
+2026-03-05 20:59:29,481 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:59:30,812 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 20:59:31,228 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 20:59:37,494 : INFO : Starting Test
+2026-03-05 20:59:37,495 : INFO : Login
+2026-03-05 20:59:38,334 : INFO : Add Product
+2026-03-05 20:59:38,885 : INFO : Checkout
+2026-03-05 20:59:38,953 : INFO : Continue Checkout
+2026-03-05 20:59:39,532 : INFO : Fill Shipping Address & Submit
+2026-03-05 20:59:39,812 : INFO : Verify Order Confirmation
+2026-03-05 21:02:53,135 : INFO : ====== WebDriver manager ======
+2026-03-05 21:02:55,327 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:03:02,986 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:03:03,340 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:03:04,736 : INFO : Starting Test
+2026-03-05 21:03:04,737 : INFO : Login
+2026-03-05 21:03:12,500 : INFO : Add Product
+2026-03-05 21:03:13,037 : INFO : Checkout
+2026-03-05 21:03:13,607 : INFO : Continue Checkout
+2026-03-05 21:03:14,178 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:03:14,457 : INFO : Waiting for confirmation page to load
+2026-03-05 21:03:44,554 : INFO : Download Receipt
+2026-03-05 21:08:03,078 : INFO : ====== WebDriver manager ======
+2026-03-05 21:08:05,387 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:08:05,824 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:08:06,236 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:08:19,643 : INFO : Starting Test
+2026-03-05 21:08:19,645 : INFO : Login
+2026-03-05 21:08:20,536 : INFO : Add Product
+2026-03-05 21:08:21,072 : INFO : Checkout
+2026-03-05 21:08:21,638 : INFO : Continue Checkout
+2026-03-05 21:08:22,224 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:08:22,596 : INFO : Waiting for confirmation page to load
+2026-03-05 21:10:41,168 : INFO : ====== WebDriver manager ======
+2026-03-05 21:10:43,368 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:10:43,704 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:10:44,145 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:10:50,146 : INFO : Starting Test
+2026-03-05 21:10:50,166 : INFO : Login
+2026-03-05 21:10:51,104 : INFO : Add Product
+2026-03-05 21:10:52,155 : INFO : Checkout
+2026-03-05 21:10:52,731 : INFO : Continue Checkout
+2026-03-05 21:10:53,309 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:10:53,586 : INFO : Waiting for confirmation page to load
+2026-03-05 21:24:25,067 : INFO : ====== WebDriver manager ======
+2026-03-05 21:24:28,058 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:24:28,682 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:24:29,155 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:24:57,327 : INFO : Starting Test
+2026-03-05 21:24:57,329 : INFO : Login
+2026-03-05 21:25:00,884 : INFO : Add Product
+2026-03-05 21:25:01,487 : INFO : Checkout
+2026-03-05 21:25:01,664 : INFO : Continue Checkout
+2026-03-05 21:25:02,357 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:25:03,143 : INFO : Wait for order confirmation
+2026-03-05 21:28:12,945 : INFO : ====== WebDriver manager ======
+2026-03-05 21:28:15,435 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:28:15,892 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:28:16,240 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:28:18,777 : INFO : Starting Test
+2026-03-05 21:28:18,779 : INFO : Login
+2026-03-05 21:28:50,427 : INFO : Add Product
+2026-03-05 21:28:51,593 : INFO : Checkout
+2026-03-05 21:28:51,769 : INFO : Continue Checkout
+2026-03-05 21:28:53,515 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:28:54,235 : INFO : Wait for order confirmation page
+2026-03-05 21:36:15,335 : INFO : ====== WebDriver manager ======
+2026-03-05 21:36:17,917 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:36:18,317 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:36:18,718 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:36:46,217 : INFO : Starting Test
+2026-03-05 21:36:46,219 : INFO : Login
+2026-03-05 21:36:50,348 : INFO : Add Product
+2026-03-05 21:36:50,940 : INFO : Checkout
+2026-03-05 21:36:51,109 : INFO : Continue Checkout
+2026-03-05 21:36:51,824 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:36:52,343 : INFO : Wait for order confirmation page
+2026-03-05 21:54:00,634 : INFO : ====== WebDriver manager ======
+2026-03-05 21:54:03,136 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:54:03,855 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:54:04,372 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:54:29,998 : INFO : Starting Test
+2026-03-05 21:54:30,000 : INFO : Login
+2026-03-05 21:54:31,898 : INFO : Add Product
+2026-03-05 21:54:32,510 : INFO : Checkout
+2026-03-05 21:54:32,728 : INFO : Continue Checkout
+2026-03-05 21:54:33,454 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:54:34,075 : INFO : Wait for order confirmation page
+2026-03-05 21:57:17,809 : INFO : ====== WebDriver manager ======
+2026-03-05 21:57:20,878 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:57:21,208 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 21:57:21,567 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 21:57:30,830 : INFO : Starting Test
+2026-03-05 21:57:30,833 : INFO : Login
+2026-03-05 21:57:32,789 : INFO : Add Product
+2026-03-05 21:57:33,395 : INFO : Checkout
+2026-03-05 21:57:33,610 : INFO : Continue Checkout
+2026-03-05 21:57:34,328 : INFO : Fill Shipping Address & Submit
+2026-03-05 21:57:35,105 : INFO : Wait for order confirmation page
+2026-03-05 22:04:26,581 : INFO : ====== WebDriver manager ======
+2026-03-05 22:04:29,304 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:04:30,145 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:04:30,585 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 22:04:45,715 : INFO : Starting Test
+2026-03-05 22:04:45,717 : INFO : Login
+2026-03-05 22:04:47,669 : INFO : Add Product
+2026-03-05 22:04:48,259 : INFO : Checkout
+2026-03-05 22:04:48,449 : INFO : Continue Checkout
+2026-03-05 22:04:49,171 : INFO : Fill Shipping Address & Submit
+2026-03-05 22:04:49,937 : INFO : Wait for order confirmation page
+2026-03-05 22:12:00,930 : INFO : ====== WebDriver manager ======
+2026-03-05 22:12:03,841 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:12:04,592 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:12:04,968 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 22:12:07,458 : INFO : Starting Test
+2026-03-05 22:12:07,468 : INFO : Login
+2026-03-05 22:12:22,140 : INFO : Add Product
+2026-03-05 22:12:22,730 : INFO : Checkout
+2026-03-05 22:12:22,907 : INFO : Continue Checkout
+2026-03-05 22:12:23,651 : INFO : Fill Shipping Address & Submit
+2026-03-05 22:12:24,378 : INFO : Wait for order confirmation page
+2026-03-05 22:14:07,797 : INFO : ====== WebDriver manager ======
+2026-03-05 22:14:10,275 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:14:10,710 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:14:11,170 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 22:14:24,637 : INFO : Starting Test
+2026-03-05 22:14:24,638 : INFO : Login
+2026-03-05 22:14:28,211 : INFO : Add Product
+2026-03-05 22:14:28,812 : INFO : Checkout
+2026-03-05 22:14:28,917 : INFO : Continue Checkout
+2026-03-05 22:14:30,055 : INFO : Fill Shipping Address & Submit
+2026-03-05 22:14:30,737 : INFO : Wait for order confirmation page
+2026-03-05 22:17:53,168 : INFO : ====== WebDriver manager ======
+2026-03-05 22:17:55,617 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:17:56,075 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:17:56,504 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 22:17:58,747 : INFO : Starting Test
+2026-03-05 22:17:58,768 : INFO : Login
+2026-03-05 22:18:18,548 : INFO : Add Product
+2026-03-05 22:18:19,182 : INFO : Checkout
+2026-03-05 22:18:19,362 : INFO : Continue Checkout
+2026-03-05 22:18:20,172 : INFO : Fill Shipping Address & Submit
+2026-03-05 22:18:20,949 : INFO : Wait for order confirmation page
+2026-03-05 22:51:49,883 : INFO : ====== WebDriver manager ======
+2026-03-05 22:51:52,698 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:51:53,539 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 22:51:54,113 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 22:52:18,679 : INFO : Starting Test
+2026-03-05 22:52:18,776 : INFO : Login
+2026-03-05 22:52:20,809 : INFO : Add Product
+2026-03-05 22:52:21,412 : INFO : Checkout
+2026-03-05 22:52:21,572 : INFO : Continue Checkout
+2026-03-05 22:52:22,306 : INFO : Fill Shipping Address & Submit
+2026-03-05 22:52:23,199 : INFO : Wait for order confirmation page
+2026-03-05 23:04:39,942 : INFO : ====== WebDriver manager ======
+2026-03-05 23:04:42,564 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:04:43,551 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:04:43,969 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 23:05:05,563 : INFO : Starting Test
+2026-03-05 23:05:05,564 : INFO : Login
+2026-03-05 23:05:09,650 : INFO : Add Product
+2026-03-05 23:05:10,429 : INFO : Continue Checkout
+2026-03-05 23:05:11,096 : INFO : Fill Shipping Address & Submit
+2026-03-05 23:05:11,819 : INFO : Wait for order confirmation page
+2026-03-05 23:09:38,052 : INFO : ====== WebDriver manager ======
+2026-03-05 23:09:40,551 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:09:41,009 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:09:41,699 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 23:10:00,095 : INFO : Starting Test
+2026-03-05 23:10:00,097 : INFO : Login
+2026-03-05 23:10:02,119 : INFO : Add Product
+2026-03-05 23:10:02,903 : INFO : Continue Checkout
+2026-03-05 23:10:03,602 : INFO : Fill Shipping Address & Submit
+2026-03-05 23:10:04,398 : INFO : Wait for order confirmation page
+2026-03-05 23:15:10,833 : INFO : ====== WebDriver manager ======
+2026-03-05 23:15:13,335 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:15:14,023 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:15:14,697 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 23:15:16,041 : INFO : Starting Test
+2026-03-05 23:15:16,046 : INFO : Login
+2026-03-05 23:15:40,026 : INFO : ====== WebDriver manager ======
+2026-03-05 23:15:42,602 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:15:43,316 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:15:43,938 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 23:15:45,077 : INFO : Starting Test
+2026-03-05 23:15:45,087 : INFO : Login
+2026-03-05 23:17:47,799 : INFO : ====== WebDriver manager ======
+2026-03-05 23:17:50,158 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:17:50,797 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:17:51,486 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 23:17:52,732 : INFO : Starting Test
+2026-03-05 23:17:52,734 : INFO : Login
+2026-03-05 23:19:18,706 : INFO : ====== WebDriver manager ======
+2026-03-05 23:19:21,187 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:19:22,044 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-05 23:19:24,579 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-05 23:19:26,027 : INFO : Starting Test
+2026-03-05 23:19:26,028 : INFO : Login
+2026-03-06 08:54:32,301 : INFO : ====== WebDriver manager ======
+2026-03-06 08:54:38,540 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 08:54:39,489 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 08:54:40,171 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 08:54:41,635 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-06 08:54:41,643 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-06 08:54:41,644 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-06 08:54:43,044 : INFO : Driver downloading response is 200
+2026-03-06 08:55:15,953 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 08:55:16,569 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-06 08:55:20,401 : INFO : Starting Test
+2026-03-06 08:55:20,403 : INFO : Login
+2026-03-06 09:00:33,339 : INFO : ====== WebDriver manager ======
+2026-03-06 09:00:35,943 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:00:36,708 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:00:37,350 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 09:00:38,620 : INFO : Starting Test
+2026-03-06 09:00:38,621 : INFO : Login
+2026-03-06 09:08:11,412 : INFO : ====== WebDriver manager ======
+2026-03-06 09:08:14,106 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:08:14,459 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:08:15,041 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 09:08:16,409 : INFO : Starting Test
+2026-03-06 09:08:16,411 : INFO : Login
+2026-03-06 09:15:19,620 : INFO : ====== WebDriver manager ======
+2026-03-06 09:15:21,762 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:15:22,418 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:15:22,770 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 09:15:32,333 : INFO : Starting Test
+2026-03-06 09:15:32,333 : INFO : Login
+2026-03-06 09:15:33,798 : INFO : Add Product
+2026-03-06 09:15:34,922 : INFO : Continue Checkout
+2026-03-06 09:15:35,497 : INFO : Fill Shipping Address & Submit
+2026-03-06 09:15:35,783 : INFO : Wait for order confirmation page
+2026-03-06 09:15:37,850 : INFO : Download Receipt
+2026-03-06 09:15:39,908 : INFO : Continue Shopping
+2026-03-06 09:15:39,987 : INFO : Logout
+2026-03-06 09:18:25,440 : INFO : ====== WebDriver manager ======
+2026-03-06 09:18:27,579 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:18:27,932 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:18:28,270 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 09:18:32,911 : INFO : Starting Test
+2026-03-06 09:18:32,911 : INFO : Login
+2026-03-06 09:18:33,797 : INFO : Add Product
+2026-03-06 09:18:34,424 : INFO : Continue Checkout
+2026-03-06 09:18:34,987 : INFO : Fill Shipping Address & Submit
+2026-03-06 09:18:35,307 : INFO : Wait for order confirmation page
+2026-03-06 09:18:36,358 : INFO : Download Receipt
+2026-03-06 09:18:38,414 : INFO : Continue Shopping
+2026-03-06 09:18:38,492 : INFO : Logout
+2026-03-06 09:27:14,451 : INFO : ====== WebDriver manager ======
+2026-03-06 09:27:16,528 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:27:16,857 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 09:27:17,191 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 09:27:27,555 : INFO : Starting Test
+2026-03-06 09:27:27,556 : INFO : Login
+2026-03-06 09:27:28,395 : INFO : Add Product
+2026-03-06 09:27:29,004 : INFO : Continue Checkout
+2026-03-06 09:27:29,589 : INFO : Fill Shipping Address & Submit
+2026-03-06 09:27:29,867 : INFO : Wait for order confirmation page
+2026-03-06 09:27:31,431 : INFO : Download Receipt
+2026-03-06 09:27:33,489 : INFO : Continue Shopping
+2026-03-06 09:27:33,592 : INFO : Logout
+2026-03-06 10:00:26,768 : INFO : ====== WebDriver manager ======
+2026-03-06 10:00:31,397 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:00:32,670 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:00:33,355 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 10:00:39,525 : INFO : Starting Test
+2026-03-06 10:00:39,527 : INFO : Login
+2026-03-06 10:00:40,768 : INFO : Add Product
+2026-03-06 10:00:41,526 : INFO : Continue Checkout
+2026-03-06 10:00:42,202 : INFO : Fill Shipping Address & Submit
+2026-03-06 10:00:42,676 : INFO : Wait for order confirmation page
+2026-03-06 10:00:44,319 : INFO : Download Receipt
+2026-03-06 10:00:46,470 : INFO : Continue Shopping
+2026-03-06 10:00:46,652 : INFO : Logout
+2026-03-06 10:16:16,370 : INFO : ====== WebDriver manager ======
+2026-03-06 10:16:20,841 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:16:21,624 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:16:22,384 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 10:16:30,454 : INFO : Starting Test
+2026-03-06 10:16:30,457 : INFO : Login
+2026-03-06 10:16:31,744 : INFO : Add Product
+2026-03-06 10:16:32,462 : INFO : Continue Checkout
+2026-03-06 10:16:33,122 : INFO : Fill Shipping Address & Submit
+2026-03-06 10:16:33,622 : INFO : Wait for order confirmation page
+2026-03-06 10:16:34,723 : INFO : Download Receipt
+2026-03-06 10:16:36,853 : INFO : Continue Shopping
+2026-03-06 10:16:37,011 : INFO : Logout
+2026-03-06 10:20:13,004 : INFO : ====== WebDriver manager ======
+2026-03-06 10:20:17,649 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:20:18,654 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:20:19,266 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 10:20:25,488 : INFO : Starting Test
+2026-03-06 10:20:25,490 : INFO : Login
+2026-03-06 10:20:26,708 : INFO : Add Product
+2026-03-06 10:20:27,442 : INFO : Continue Checkout
+2026-03-06 10:20:28,114 : INFO : Fill Shipping Address & Submit
+2026-03-06 10:20:28,795 : INFO : Wait for order confirmation page
+2026-03-06 10:20:57,305 : INFO : ====== WebDriver manager ======
+2026-03-06 10:21:01,832 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:21:02,788 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 10:21:03,472 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 10:21:11,440 : INFO : Starting Test
+2026-03-06 10:21:11,442 : INFO : Login
+2026-03-06 10:21:12,712 : INFO : Add Product
+2026-03-06 10:21:13,472 : INFO : Continue Checkout
+2026-03-06 10:21:14,120 : INFO : Fill Shipping Address & Submit
+2026-03-06 10:21:14,655 : INFO : Wait for order confirmation page
+2026-03-06 10:21:15,763 : INFO : Download Receipt
+2026-03-06 10:21:17,892 : INFO : Continue Shopping
+2026-03-06 10:21:18,039 : INFO : Logout
+2026-03-06 12:31:35,067 : INFO : ====== WebDriver manager ======
+2026-03-06 12:31:41,041 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:31:42,428 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:31:43,312 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:31:48,558 : INFO : Starting Test
+2026-03-06 12:31:48,565 : INFO : Login
+2026-03-06 12:32:12,035 : INFO : Add Product
+2026-03-06 12:32:13,019 : INFO : Continue Checkout
+2026-03-06 12:32:13,760 : INFO : Fill Shipping Address & Submit
+2026-03-06 12:32:15,134 : INFO : Wait for order confirmation page
+2026-03-06 12:32:19,000 : INFO : Download Receipt
+2026-03-06 12:32:21,285 : INFO : Continue Shopping
+2026-03-06 12:32:21,610 : INFO : Logout
+2026-03-06 12:41:51,889 : INFO : ====== WebDriver manager ======
+2026-03-06 12:41:57,961 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:41:58,807 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:41:59,680 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:42:05,699 : INFO : Starting Test
+2026-03-06 12:42:05,701 : INFO : Login
+2026-03-06 12:42:07,854 : INFO : Add Product
+2026-03-06 12:42:08,762 : INFO : Continue Checkout
+2026-03-06 12:42:09,662 : INFO : Fill Shipping Address & Submit
+2026-03-06 12:42:11,158 : INFO : Wait for order confirmation page
+2026-03-06 12:42:12,904 : INFO : Download Receipt
+2026-03-06 12:42:15,190 : INFO : Continue Shopping
+2026-03-06 12:42:17,835 : INFO : ====== WebDriver manager ======
+2026-03-06 12:42:23,980 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:42:25,159 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:42:26,005 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:42:28,343 : INFO : Starting Logout Test
+2026-03-06 12:44:56,270 : INFO : ====== WebDriver manager ======
+2026-03-06 12:45:02,818 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:45:03,729 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:45:04,863 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:45:08,163 : INFO : Starting Test
+2026-03-06 12:45:08,166 : INFO : Login
+2026-03-06 12:45:14,341 : INFO : Add Product
+2026-03-06 12:45:15,330 : INFO : Continue Checkout
+2026-03-06 12:45:16,340 : INFO : Fill Shipping Address & Submit
+2026-03-06 12:45:17,650 : INFO : Wait for order confirmation page
+2026-03-06 12:45:19,591 : INFO : Download Receipt
+2026-03-06 12:45:21,917 : INFO : Continue Shopping
+2026-03-06 12:45:22,306 : INFO : Logout
+2026-03-06 12:48:52,062 : INFO : ====== WebDriver manager ======
+2026-03-06 12:48:58,507 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:48:59,708 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:49:00,846 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:49:30,792 : INFO : Starting Test
+2026-03-06 12:49:30,798 : INFO : Login
+2026-03-06 12:49:32,841 : INFO : Add Product
+2026-03-06 12:49:33,874 : INFO : Continue Checkout
+2026-03-06 12:49:34,874 : INFO : Fill Shipping Address & Submit
+2026-03-06 12:49:36,048 : INFO : Wait for order confirmation page
+2026-03-06 12:49:38,943 : INFO : Download Receipt
+2026-03-06 12:49:41,218 : INFO : Continue Shopping
+2026-03-06 12:49:41,642 : INFO : Logout
+2026-03-06 12:53:37,922 : INFO : ====== WebDriver manager ======
+2026-03-06 12:53:43,922 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:53:44,747 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:53:45,717 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:53:48,552 : INFO : Starting Test
+2026-03-06 12:53:48,588 : INFO : Login
+2026-03-06 12:53:59,236 : INFO : Add Product
+2026-03-06 12:54:00,290 : INFO : Continue Checkout
+2026-03-06 12:54:01,122 : INFO : Fill Shipping Address & Submit
+2026-03-06 12:54:02,426 : INFO : Wait for order confirmation page
+2026-03-06 12:54:04,127 : INFO : Download Receipt
+2026-03-06 12:54:06,403 : INFO : Continue Shopping
+2026-03-06 12:54:09,866 : INFO : Logout
+2026-03-06 12:59:29,452 : INFO : ====== WebDriver manager ======
+2026-03-06 12:59:35,893 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:59:37,349 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 12:59:38,507 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 12:59:47,713 : INFO : Starting Test
+2026-03-06 12:59:47,863 : INFO : Login
+2026-03-06 12:59:59,159 : INFO : Add Product
+2026-03-06 13:00:00,237 : INFO : Continue Checkout
+2026-03-06 13:00:01,122 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:00:02,292 : INFO : Wait for order confirmation page
+2026-03-06 13:00:03,891 : INFO : Download Receipt
+2026-03-06 13:00:06,166 : INFO : Continue Shopping
+2026-03-06 13:00:09,707 : INFO : Logout
+2026-03-06 13:02:44,787 : INFO : ====== WebDriver manager ======
+2026-03-06 13:02:50,748 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:02:51,719 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:02:52,573 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:03:06,525 : INFO : Starting Test
+2026-03-06 13:03:06,527 : INFO : Login
+2026-03-06 13:03:09,537 : INFO : Add Product
+2026-03-06 13:03:10,519 : INFO : Continue Checkout
+2026-03-06 13:03:11,252 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:03:12,537 : INFO : Wait for order confirmation page
+2026-03-06 13:03:15,392 : INFO : Download Receipt
+2026-03-06 13:03:17,610 : INFO : Continue Shopping
+2026-03-06 13:03:21,107 : INFO : Logout
+2026-03-06 13:07:44,084 : INFO : ====== WebDriver manager ======
+2026-03-06 13:07:50,394 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:07:51,587 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:07:52,621 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:08:09,668 : INFO : Starting Test
+2026-03-06 13:08:09,686 : INFO : Login
+2026-03-06 13:08:12,522 : INFO : Add Product
+2026-03-06 13:08:13,456 : INFO : Continue Checkout
+2026-03-06 13:08:14,256 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:08:15,592 : INFO : Wait for order confirmation page
+2026-03-06 13:08:17,317 : INFO : Download Receipt
+2026-03-06 13:08:19,578 : INFO : Continue Shopping
+2026-03-06 13:08:23,028 : INFO : Logout
+2026-03-06 13:09:40,798 : INFO : ====== WebDriver manager ======
+2026-03-06 13:09:47,028 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:09:48,080 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:09:49,210 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:10:11,785 : INFO : Starting Test
+2026-03-06 13:10:11,803 : INFO : Login
+2026-03-06 13:10:14,912 : INFO : Add Product
+2026-03-06 13:10:15,922 : INFO : Continue Checkout
+2026-03-06 13:10:17,264 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:10:18,365 : INFO : Wait for order confirmation page
+2026-03-06 13:10:28,448 : INFO : Download Receipt
+2026-03-06 13:10:30,707 : INFO : Continue Shopping
+2026-03-06 13:10:34,074 : INFO : Logout
+2026-03-06 13:17:04,587 : INFO : ====== WebDriver manager ======
+2026-03-06 13:17:10,502 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:17:11,782 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:17:12,715 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:17:29,136 : INFO : Starting Test
+2026-03-06 13:17:29,160 : INFO : Login
+2026-03-06 13:17:31,599 : INFO : Add Product
+2026-03-06 13:17:32,592 : INFO : Continue Checkout
+2026-03-06 13:17:33,341 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:17:34,414 : INFO : Wait for order confirmation page
+2026-03-06 13:17:44,154 : INFO : Download Receipt
+2026-03-06 13:17:46,388 : INFO : Continue Shopping
+2026-03-06 13:17:49,765 : INFO : Logout
+2026-03-06 13:22:50,413 : INFO : ====== WebDriver manager ======
+2026-03-06 13:22:57,088 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:22:58,207 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:22:59,130 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:23:28,648 : INFO : Starting Test
+2026-03-06 13:23:28,652 : INFO : Login
+2026-03-06 13:23:31,362 : INFO : Add Product
+2026-03-06 13:23:32,418 : INFO : Continue Checkout
+2026-03-06 13:23:33,513 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:23:34,791 : INFO : Wait for order confirmation page
+2026-03-06 13:23:37,177 : INFO : Download Receipt
+2026-03-06 13:23:39,491 : INFO : Continue Shopping
+2026-03-06 13:23:42,905 : INFO : Logout
+2026-03-06 13:24:49,341 : INFO : ====== WebDriver manager ======
+2026-03-06 13:24:55,561 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:24:56,991 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:24:58,229 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:25:01,031 : INFO : Starting Test
+2026-03-06 13:25:01,035 : INFO : Login
+2026-03-06 13:25:48,110 : INFO : ====== WebDriver manager ======
+2026-03-06 13:25:54,296 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:25:55,369 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:25:56,387 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:26:31,113 : INFO : Starting Test
+2026-03-06 13:26:31,125 : INFO : Login
+2026-03-06 13:26:33,765 : INFO : Add Product
+2026-03-06 13:26:35,265 : INFO : Continue Checkout
+2026-03-06 13:26:36,037 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:26:36,928 : INFO : Wait for order confirmation page
+2026-03-06 13:26:40,807 : INFO : Download Receipt
+2026-03-06 13:26:42,980 : INFO : Continue Shopping
+2026-03-06 13:26:46,364 : INFO : Logout
+2026-03-06 13:29:20,201 : INFO : ====== WebDriver manager ======
+2026-03-06 13:29:25,970 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:29:27,052 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:29:28,262 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:29:56,494 : INFO : Starting Test
+2026-03-06 13:29:56,496 : INFO : Login
+2026-03-06 13:29:58,898 : INFO : Add Product
+2026-03-06 13:29:59,981 : INFO : Continue Checkout
+2026-03-06 13:30:00,835 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:30:02,364 : INFO : Wait for order confirmation page
+2026-03-06 13:30:06,879 : INFO : Download Receipt
+2026-03-06 13:30:09,119 : INFO : Continue Shopping
+2026-03-06 13:30:12,494 : INFO : Logout
+2026-03-06 13:35:42,923 : INFO : ====== WebDriver manager ======
+2026-03-06 13:35:48,766 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:35:50,352 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:35:51,593 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:36:10,200 : INFO : Starting Test
+2026-03-06 13:36:10,202 : INFO : Login
+2026-03-06 13:36:12,880 : INFO : Add Product
+2026-03-06 13:36:13,864 : INFO : Continue Checkout
+2026-03-06 13:36:14,668 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:36:15,920 : INFO : Wait for order confirmation page
+2026-03-06 13:36:18,696 : INFO : Download Receipt
+2026-03-06 13:36:20,920 : INFO : Continue Shopping
+2026-03-06 13:36:24,208 : INFO : Logout
+2026-03-06 13:37:57,514 : INFO : ====== WebDriver manager ======
+2026-03-06 13:38:03,869 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:38:05,059 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:38:06,061 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:38:25,198 : INFO : Starting Test
+2026-03-06 13:38:25,200 : INFO : Login
+2026-03-06 13:38:27,541 : INFO : Add Product
+2026-03-06 13:38:28,399 : INFO : Continue Checkout
+2026-03-06 13:38:29,368 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:38:30,459 : INFO : Wait for order confirmation page
+2026-03-06 13:38:34,409 : INFO : Download Receipt
+2026-03-06 13:38:36,697 : INFO : Continue Shopping
+2026-03-06 13:38:40,019 : INFO : Logout
+2026-03-06 13:43:14,282 : INFO : ====== WebDriver manager ======
+2026-03-06 13:43:19,795 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:43:20,988 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:43:21,792 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:43:38,101 : INFO : Starting Test
+2026-03-06 13:43:38,111 : INFO : Login
+2026-03-06 13:43:40,633 : INFO : Add Product
+2026-03-06 13:43:41,603 : INFO : Continue Checkout
+2026-03-06 13:43:42,337 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:43:43,157 : INFO : Wait for order confirmation page
+2026-03-06 13:43:53,502 : INFO : Download Receipt
+2026-03-06 13:43:55,736 : INFO : Continue Shopping
+2026-03-06 13:43:59,098 : INFO : Logout
+2026-03-06 13:46:23,713 : INFO : ====== WebDriver manager ======
+2026-03-06 13:46:27,872 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:46:28,620 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:46:29,378 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:46:37,936 : INFO : Starting Test
+2026-03-06 13:46:37,937 : INFO : Login
+2026-03-06 13:46:39,331 : INFO : Add Product
+2026-03-06 13:46:40,096 : INFO : Continue Checkout
+2026-03-06 13:46:40,744 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:46:41,410 : INFO : Wait for order confirmation page
+2026-03-06 13:46:42,530 : INFO : Download Receipt
+2026-03-06 13:46:44,655 : INFO : Continue Shopping
+2026-03-06 13:46:47,842 : INFO : Logout
+2026-03-06 13:56:19,178 : INFO : ====== WebDriver manager ======
+2026-03-06 13:56:23,859 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:56:24,850 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:56:25,493 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:56:35,656 : INFO : Starting Test
+2026-03-06 13:56:35,658 : INFO : Login
+2026-03-06 13:56:37,549 : INFO : Add Product
+2026-03-06 13:56:38,257 : INFO : Continue Checkout
+2026-03-06 13:56:38,926 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:56:39,354 : INFO : Wait for order confirmation page
+2026-03-06 13:56:43,068 : INFO : Download Receipt
+2026-03-06 13:56:45,170 : INFO : Continue Shopping
+2026-03-06 13:56:48,348 : INFO : Logout
+2026-03-06 13:59:00,175 : INFO : ====== WebDriver manager ======
+2026-03-06 13:59:04,729 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:59:05,504 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 13:59:06,334 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 13:59:13,607 : INFO : Starting Test
+2026-03-06 13:59:13,609 : INFO : Login
+2026-03-06 13:59:14,963 : INFO : Add Product
+2026-03-06 13:59:15,716 : INFO : Continue Checkout
+2026-03-06 13:59:16,415 : INFO : Fill Shipping Address & Submit
+2026-03-06 13:59:16,938 : INFO : Wait for order confirmation page
+2026-03-06 13:59:18,059 : INFO : Download Receipt
+2026-03-06 13:59:20,207 : INFO : Continue Shopping
+2026-03-06 13:59:23,341 : INFO : Logout
+2026-03-06 14:08:18,268 : INFO : ====== WebDriver manager ======
+2026-03-06 14:08:22,702 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:08:23,386 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:08:24,106 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 14:08:31,902 : INFO : Starting Test
+2026-03-06 14:08:31,905 : INFO : Login
+2026-03-06 14:08:33,293 : INFO : Add Product
+2026-03-06 14:08:34,035 : INFO : Continue Checkout
+2026-03-06 14:08:35,243 : INFO : Fill Shipping Address & Submit
+2026-03-06 14:08:35,793 : INFO : Wait for order confirmation page
+2026-03-06 14:08:37,450 : INFO : Download Receipt
+2026-03-06 14:08:39,547 : INFO : Continue Shopping
+2026-03-06 14:08:42,713 : INFO : Logout
+2026-03-06 14:11:08,740 : INFO : ====== WebDriver manager ======
+2026-03-06 14:11:13,518 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:11:14,262 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:11:14,910 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 14:11:22,541 : INFO : Starting Test
+2026-03-06 14:11:22,542 : INFO : Login
+2026-03-06 14:11:23,933 : INFO : Add Product
+2026-03-06 14:11:24,701 : INFO : Continue Checkout
+2026-03-06 14:11:25,397 : INFO : Fill Shipping Address & Submit
+2026-03-06 14:11:25,853 : INFO : Wait for order confirmation page
+2026-03-06 14:11:27,486 : INFO : Download Receipt
+2026-03-06 14:11:29,657 : INFO : Continue Shopping
+2026-03-06 14:11:32,842 : INFO : Logout
+2026-03-06 14:13:42,367 : INFO : ====== WebDriver manager ======
+2026-03-06 14:13:47,062 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:13:47,900 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:13:48,627 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 14:13:55,612 : INFO : Starting Test
+2026-03-06 14:13:55,615 : INFO : Login
+2026-03-06 14:13:57,015 : INFO : Add Product
+2026-03-06 14:13:57,783 : INFO : Continue Checkout
+2026-03-06 14:13:58,455 : INFO : Fill Shipping Address & Submit
+2026-03-06 14:13:59,068 : INFO : Wait for order confirmation page
+2026-03-06 14:14:00,703 : INFO : Download Receipt
+2026-03-06 14:14:02,859 : INFO : Continue Shopping
+2026-03-06 14:14:06,019 : INFO : Logout
+2026-03-06 14:16:33,154 : INFO : ====== WebDriver manager ======
+2026-03-06 14:16:37,730 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:16:38,492 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 14:16:39,181 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 14:16:46,177 : INFO : Starting Test
+2026-03-06 14:16:46,180 : INFO : Login
+2026-03-06 14:16:47,570 : INFO : Add Product
+2026-03-06 14:16:48,342 : INFO : Continue Checkout
+2026-03-06 14:16:48,984 : INFO : Fill Shipping Address & Submit
+2026-03-06 14:16:49,503 : INFO : Wait for order confirmation page
+2026-03-06 14:16:51,132 : INFO : Download Receipt
+2026-03-06 14:16:53,263 : INFO : Continue Shopping
+2026-03-06 14:16:56,454 : INFO : Logout
+2026-03-06 15:19:11,450 : INFO : ====== WebDriver manager ======
+2026-03-06 15:19:17,252 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 15:19:18,669 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 15:19:19,688 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 15:19:22,701 : INFO : Starting Test
+2026-03-06 15:19:22,829 : INFO : Login
+2026-03-06 15:19:40,632 : INFO : Add Product
+2026-03-06 15:19:42,830 : INFO : Continue Checkout
+2026-03-06 15:19:43,639 : INFO : Fill Shipping Address & Submit
+2026-03-06 15:19:44,583 : INFO : Wait for order confirmation page
+2026-03-06 15:20:07,795 : INFO : Download Receipt
+2026-03-06 15:20:10,121 : INFO : Continue Shopping
+2026-03-06 15:20:13,492 : INFO : Logout
+2026-03-06 15:28:06,124 : INFO : ====== WebDriver manager ======
+2026-03-06 15:28:12,088 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 15:28:13,002 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 15:28:14,014 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 15:28:28,284 : INFO : Starting Test
+2026-03-06 15:28:28,303 : INFO : Login
+2026-03-06 15:28:31,241 : INFO : Add Product
+2026-03-06 15:28:32,244 : INFO : Continue Checkout
+2026-03-06 15:28:33,066 : INFO : Fill Shipping Address & Submit
+2026-03-06 15:28:34,219 : INFO : Wait for order confirmation page
+2026-03-06 15:28:40,806 : INFO : Download Receipt
+2026-03-06 15:28:43,025 : INFO : Continue Shopping
+2026-03-06 15:28:46,419 : INFO : Logout
+2026-03-06 16:05:10,972 : INFO : ====== WebDriver manager ======
+2026-03-06 16:05:16,869 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 16:05:18,054 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 16:05:19,285 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 16:05:23,496 : INFO : Starting Test
+2026-03-06 16:05:23,501 : INFO : Login
+2026-03-06 16:05:46,904 : INFO : Add Product
+2026-03-06 16:05:47,924 : INFO : Continue Checkout
+2026-03-06 16:05:48,855 : INFO : Fill Shipping Address & Submit
+2026-03-06 16:05:49,755 : INFO : Wait for order confirmation page
+2026-03-06 16:05:55,794 : INFO : Download Receipt
+2026-03-06 16:05:58,050 : INFO : Continue Shopping
+2026-03-06 16:06:01,441 : INFO : Logout
+2026-03-06 16:06:25,299 : INFO : ====== WebDriver manager ======
+2026-03-06 16:06:31,079 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 16:06:32,218 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 16:06:33,444 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 16:06:39,592 : INFO : Starting Test
+2026-03-06 16:06:39,599 : INFO : Login
+2026-03-06 16:09:18,482 : INFO : ====== WebDriver manager ======
+2026-03-06 16:09:24,326 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 16:09:25,561 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 16:09:26,728 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 16:09:47,672 : INFO : Starting Test
+2026-03-06 16:09:47,674 : INFO : Login
+2026-03-06 16:09:50,047 : INFO : Add Product
+2026-03-06 16:09:52,585 : INFO : Continue Checkout
+2026-03-06 16:10:01,468 : INFO : Fill Shipping Address & Submit
+2026-03-06 16:10:02,410 : INFO : Wait for order confirmation page
+2026-03-06 16:10:07,354 : INFO : Download Receipt
+2026-03-06 16:10:09,597 : INFO : Continue Shopping
+2026-03-06 16:10:12,999 : INFO : Logout
+2026-03-06 20:34:57,277 : INFO : ====== WebDriver manager ======
+2026-03-06 20:35:00,436 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 20:35:01,093 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 20:35:01,817 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 20:35:05,052 : INFO : Starting Test
+2026-03-06 20:35:05,162 : INFO : Login
+2026-03-06 20:35:18,096 : INFO : Add Product
+2026-03-06 20:35:19,007 : INFO : Continue Checkout
+2026-03-06 20:35:19,719 : INFO : Fill Shipping Address & Submit
+2026-03-06 20:35:20,574 : INFO : Wait for order confirmation page
+2026-03-06 20:35:23,889 : INFO : Download Receipt
+2026-03-06 20:35:26,141 : INFO : Continue Shopping
+2026-03-06 20:35:29,360 : INFO : Logout
+2026-03-06 20:39:01,236 : INFO : ====== WebDriver manager ======
+2026-03-06 20:39:03,758 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 20:39:04,261 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 20:39:18,297 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 20:40:15,099 : INFO : Starting Test
+2026-03-06 20:40:15,102 : INFO : Login
+2026-03-06 20:40:19,802 : INFO : Add Product
+2026-03-06 20:40:20,646 : INFO : Continue Checkout
+2026-03-06 20:40:24,512 : INFO : Fill Shipping Address & Submit
+2026-03-06 20:40:25,123 : INFO : Wait for order confirmation page
+2026-03-06 20:40:40,465 : INFO : Download Receipt
+2026-03-06 20:40:42,672 : INFO : Continue Shopping
+2026-03-06 20:40:45,885 : INFO : Logout
+2026-03-06 21:43:22,334 : INFO : xdist worker is: gw0
+2026-03-06 21:43:22,334 : INFO : ====== WebDriver manager ======
+2026-03-06 21:43:24,931 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 21:43:25,639 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 21:43:26,068 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 21:43:27,432 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-06 21:43:27,436 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-06 21:43:27,436 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-06 21:43:28,149 : INFO : Driver downloading response is 200
+2026-03-06 21:43:31,279 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 21:43:31,916 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-06 21:43:46,192 : INFO : Starting Test
+2026-03-06 21:43:46,197 : INFO : Login
+2026-03-06 21:43:48,178 : INFO : Add Product
+2026-03-06 21:43:49,009 : INFO : Continue Checkout
+2026-03-06 21:43:49,759 : INFO : Fill Shipping Address & Submit
+2026-03-06 21:43:50,744 : INFO : Wait for order confirmation page
+2026-03-06 21:43:53,480 : INFO : Download Receipt
+2026-03-06 21:43:55,611 : INFO : Continue Shopping
+2026-03-06 21:43:59,263 : INFO : Logout
+2026-03-06 21:46:31,110 : INFO : xdist worker is: gw0
+2026-03-06 21:46:31,111 : INFO : ====== WebDriver manager ======
+2026-03-06 21:46:33,745 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 21:46:34,261 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-06 21:46:34,735 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-06 21:46:36,913 : INFO : Starting Test
+2026-03-06 21:46:36,914 : INFO : Login
+2026-03-06 21:46:51,017 : INFO : Add Product
+2026-03-06 21:46:51,853 : INFO : Continue Checkout
+2026-03-06 21:46:52,545 : INFO : Fill Shipping Address & Submit
+2026-03-06 21:46:53,281 : INFO : Wait for order confirmation page
+2026-03-06 21:46:55,579 : INFO : Download Receipt
+2026-03-06 21:46:57,786 : INFO : Continue Shopping
+2026-03-06 21:47:01,019 : INFO : Logout
+2026-03-07 09:39:38,258 : INFO : xdist worker is: gw0
+2026-03-07 09:39:38,259 : INFO : ====== WebDriver manager ======
+2026-03-07 09:39:42,296 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 09:39:43,204 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 09:39:43,921 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 09:39:45,618 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-07 09:39:45,628 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 09:39:45,629 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 09:39:46,375 : INFO : Driver downloading response is 200
+2026-03-07 09:39:48,928 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 09:39:49,756 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-07 09:40:04,154 : INFO : Starting Test
+2026-03-07 09:40:04,155 : INFO : Login
+2026-03-07 09:40:08,119 : INFO : Add Product
+2026-03-07 09:40:10,267 : INFO : Continue Checkout
+2026-03-07 09:40:12,361 : INFO : Fill Shipping Address & Submit
+2026-03-07 09:40:14,743 : INFO : Wait for order confirmation page
+2026-03-07 09:40:17,883 : INFO : Download Receipt
+2026-03-07 09:40:22,025 : INFO : Continue Shopping
+2026-03-07 09:40:25,181 : INFO : Logout
+2026-03-07 10:32:53,730 : INFO : xdist worker is: gw0
+2026-03-07 10:32:53,732 : INFO : ====== WebDriver manager ======
+2026-03-07 10:32:59,808 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:33:01,046 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:33:01,870 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:33:18,319 : INFO : Starting Test
+2026-03-07 10:33:18,321 : INFO : Login
+2026-03-07 10:33:23,025 : INFO : Add Product
+2026-03-07 10:33:25,551 : INFO : Continue Checkout
+2026-03-07 10:33:27,815 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:33:30,853 : INFO : Wait for order confirmation page
+2026-03-07 10:33:32,955 : INFO : Download Receipt
+2026-03-07 10:33:37,229 : INFO : Continue Shopping
+2026-03-07 10:33:40,535 : INFO : Logout
+2026-03-07 10:40:39,109 : INFO : xdist worker is: gw3
+2026-03-07 10:40:39,110 : INFO : ====== WebDriver manager ======
+2026-03-07 10:40:39,110 : INFO : xdist worker is: gw2
+2026-03-07 10:40:39,111 : INFO : ====== WebDriver manager ======
+2026-03-07 10:40:39,166 : INFO : xdist worker is: gw1
+2026-03-07 10:40:39,168 : INFO : ====== WebDriver manager ======
+2026-03-07 10:40:39,182 : INFO : xdist worker is: gw0
+2026-03-07 10:40:39,183 : INFO : ====== WebDriver manager ======
+2026-03-07 10:40:43,483 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:43,502 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:43,530 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:43,606 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:44,893 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:44,900 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:44,901 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:44,930 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:46,421 : INFO : There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-03-07 10:40:46,422 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:46,426 : INFO : There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-03-07 10:40:46,426 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:46,429 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:46,455 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:40:49,839 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-07 10:40:49,880 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 10:40:49,880 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 10:40:49,961 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-07 10:40:49,962 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-07 10:40:49,976 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 10:40:49,976 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 10:40:49,977 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 10:40:49,977 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-07 10:40:51,896 : INFO : Driver downloading response is 200
+2026-03-07 10:40:51,907 : INFO : Driver downloading response is 200
+2026-03-07 10:40:51,915 : INFO : Driver downloading response is 200
+2026-03-07 10:40:56,653 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:40:58,306 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-07 10:40:58,949 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:41:00,527 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw3\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-07 10:41:00,529 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:41:01,712 : INFO : Starting Test
+2026-03-07 10:41:01,713 : INFO : Login
+2026-03-07 10:41:02,142 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-07 10:41:05,790 : INFO : Starting Test
+2026-03-07 10:41:05,791 : INFO : Login
+2026-03-07 10:41:06,051 : INFO : Add Product
+2026-03-07 10:41:08,405 : INFO : Continue Checkout
+2026-03-07 10:41:09,705 : INFO : Add Product
+2026-03-07 10:41:10,359 : INFO : Starting Test
+2026-03-07 10:41:10,363 : INFO : Login
+2026-03-07 10:41:10,911 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:41:12,085 : INFO : Continue Checkout
+2026-03-07 10:41:13,948 : INFO : Wait for order confirmation page
+2026-03-07 10:41:14,319 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:41:14,731 : INFO : Add Product
+2026-03-07 10:41:16,386 : INFO : Starting Test
+2026-03-07 10:41:16,387 : INFO : Login
+2026-03-07 10:41:17,210 : INFO : Continue Checkout
+2026-03-07 10:41:17,527 : INFO : Wait for order confirmation page
+2026-03-07 10:41:19,471 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:41:21,284 : INFO : Download Receipt
+2026-03-07 10:41:21,866 : INFO : Add Product
+2026-03-07 10:41:21,949 : INFO : Download Receipt
+2026-03-07 10:41:22,579 : INFO : Wait for order confirmation page
+2026-03-07 10:41:24,746 : INFO : Download Receipt
+2026-03-07 10:41:25,574 : INFO : Continue Shopping
+2026-03-07 10:41:26,267 : INFO : Continue Shopping
+2026-03-07 10:41:28,866 : INFO : Logout
+2026-03-07 10:41:29,039 : INFO : Continue Shopping
+2026-03-07 10:41:29,576 : INFO : Logout
+2026-03-07 10:41:32,323 : INFO : Logout
+2026-03-07 10:44:02,331 : INFO : xdist worker is: gw1
+2026-03-07 10:44:02,332 : INFO : ====== WebDriver manager ======
+2026-03-07 10:44:02,337 : INFO : xdist worker is: gw0
+2026-03-07 10:44:02,339 : INFO : ====== WebDriver manager ======
+2026-03-07 10:44:06,588 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:44:06,638 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:44:07,409 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:44:08,452 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:44:08,810 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:44:09,902 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:44:24,500 : INFO : Starting Test
+2026-03-07 10:44:24,502 : INFO : Login
+2026-03-07 10:44:26,103 : INFO : Starting Test
+2026-03-07 10:44:26,103 : INFO : Login
+2026-03-07 10:44:30,390 : INFO : Add Product
+2026-03-07 10:44:32,768 : INFO : Continue Checkout
+2026-03-07 10:44:34,987 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:44:37,916 : INFO : Wait for order confirmation page
+2026-03-07 10:44:46,477 : INFO : Download Receipt
+2026-03-07 10:44:49,319 : INFO : xdist worker is: gw1
+2026-03-07 10:44:49,320 : INFO : ====== WebDriver manager ======
+2026-03-07 10:44:50,694 : INFO : Continue Shopping
+2026-03-07 10:44:53,902 : INFO : Logout
+2026-03-07 10:44:54,798 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:44:55,743 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:44:56,550 : INFO : xdist worker is: gw0
+2026-03-07 10:44:56,551 : INFO : ====== WebDriver manager ======
+2026-03-07 10:44:56,616 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:45:01,606 : INFO : Starting Test
+2026-03-07 10:45:01,607 : INFO : Login
+2026-03-07 10:45:01,687 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:45:02,830 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:45:04,054 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:45:09,086 : INFO : Starting Test
+2026-03-07 10:45:09,087 : INFO : Login
+2026-03-07 10:45:12,834 : INFO : Add Product
+2026-03-07 10:45:15,124 : INFO : Continue Checkout
+2026-03-07 10:45:17,333 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:45:20,427 : INFO : Wait for order confirmation page
+2026-03-07 10:45:23,124 : INFO : Download Receipt
+2026-03-07 10:45:27,309 : INFO : Continue Shopping
+2026-03-07 10:45:30,605 : INFO : Logout
+2026-03-07 10:48:19,732 : INFO : xdist worker is: gw0
+2026-03-07 10:48:19,735 : INFO : ====== WebDriver manager ======
+2026-03-07 10:48:19,746 : INFO : xdist worker is: gw1
+2026-03-07 10:48:19,747 : INFO : ====== WebDriver manager ======
+2026-03-07 10:48:24,042 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:48:24,127 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:48:25,064 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:48:25,163 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:48:26,160 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:48:26,282 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:48:39,764 : INFO : Starting Test
+2026-03-07 10:48:39,766 : INFO : Login
+2026-03-07 10:48:40,359 : INFO : Starting Test
+2026-03-07 10:48:40,360 : INFO : Login
+2026-03-07 10:48:44,870 : INFO : Add Product
+2026-03-07 10:48:47,129 : INFO : Continue Checkout
+2026-03-07 10:48:49,298 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:48:52,340 : INFO : Wait for order confirmation page
+2026-03-07 10:48:56,617 : INFO : Download Receipt
+2026-03-07 10:49:00,870 : INFO : Continue Shopping
+2026-03-07 10:49:04,249 : INFO : Logout
+2026-03-07 10:51:10,279 : INFO : xdist worker is: gw1
+2026-03-07 10:51:10,280 : INFO : xdist worker is: gw0
+2026-03-07 10:51:10,280 : INFO : ====== WebDriver manager ======
+2026-03-07 10:51:10,281 : INFO : ====== WebDriver manager ======
+2026-03-07 10:51:14,268 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:51:14,322 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:51:15,297 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:51:15,352 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-07 10:51:16,291 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:51:16,386 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-07 10:51:31,087 : INFO : Starting Test
+2026-03-07 10:51:31,088 : INFO : Login
+2026-03-07 10:51:32,406 : INFO : Starting Test
+2026-03-07 10:51:32,408 : INFO : Login
+2026-03-07 10:51:35,221 : INFO : Add Product
+2026-03-07 10:51:36,786 : INFO : Add Product
+2026-03-07 10:51:37,589 : INFO : Continue Checkout
+2026-03-07 10:51:39,275 : INFO : Continue Checkout
+2026-03-07 10:51:40,147 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:51:41,547 : INFO : Fill Shipping Address & Submit
+2026-03-07 10:51:43,204 : INFO : Wait for order confirmation page
+2026-03-07 10:51:44,708 : INFO : Wait for order confirmation page
+2026-03-07 10:51:45,384 : INFO : Download Receipt
+2026-03-07 10:51:49,640 : INFO : Continue Shopping
+2026-03-07 10:51:49,786 : INFO : Download Receipt
+2026-03-07 10:51:53,043 : INFO : Logout
+2026-03-07 10:51:54,245 : INFO : Continue Shopping
+2026-03-07 10:51:57,573 : INFO : Logout
+2026-03-08 20:21:11,869 : INFO : xdist worker is: gw1
+2026-03-08 20:21:11,870 : INFO : ====== WebDriver manager ======
+2026-03-08 20:21:11,873 : INFO : xdist worker is: gw0
+2026-03-08 20:21:11,874 : INFO : ====== WebDriver manager ======
+2026-03-08 20:21:14,729 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:21:14,772 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:21:16,354 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:21:16,571 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:21:17,407 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:21:17,834 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:21:20,295 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-08 20:21:20,304 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-08 20:21:20,305 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-08 20:21:21,198 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-08 20:21:21,203 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-08 20:21:21,203 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-08 20:21:22,149 : INFO : Driver downloading response is 200
+2026-03-08 20:21:22,386 : INFO : Driver downloading response is 200
+2026-03-08 20:22:37,248 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:22:38,353 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-08 20:22:46,749 : INFO : Starting Test
+2026-03-08 20:22:46,750 : INFO : Login
+2026-03-08 20:23:03,717 : INFO : Add Product
+2026-03-08 20:23:06,502 : INFO : Continue Checkout
+2026-03-08 20:23:10,841 : INFO : Fill Shipping Address & Submit
+2026-03-08 20:23:13,677 : INFO : Wait for order confirmation page
+2026-03-08 20:23:20,481 : INFO : Download Receipt
+2026-03-08 20:23:22,207 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-08 20:23:24,101 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-08 20:23:24,649 : INFO : Continue Shopping
+2026-03-08 20:23:27,828 : INFO : Logout
+2026-03-08 20:23:32,128 : INFO : Starting Test
+2026-03-08 20:23:32,128 : INFO : Login
+2026-03-08 20:23:51,257 : INFO : Add Product
+2026-03-08 20:23:53,601 : INFO : Continue Checkout
+2026-03-08 20:23:56,859 : INFO : Fill Shipping Address & Submit
+2026-03-08 20:23:59,629 : INFO : Wait for order confirmation page
+2026-03-08 20:24:01,733 : INFO : Download Receipt
+2026-03-08 20:24:05,870 : INFO : Continue Shopping
+2026-03-08 20:24:09,094 : INFO : Logout
+2026-03-09 08:54:53,631 : INFO : xdist worker is: gw1
+2026-03-09 08:54:53,632 : INFO : ====== WebDriver manager ======
+2026-03-09 08:54:53,632 : INFO : ====== WebDriver manager ======
+2026-03-09 08:54:57,147 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:54:57,150 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:54:58,622 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:54:58,922 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:54:59,482 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:54:59,929 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:55:01,389 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-09 08:55:01,397 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 08:55:01,397 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 08:55:02,192 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-09 08:55:02,197 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 08:55:02,197 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 08:55:02,796 : INFO : Driver downloading response is 200
+2026-03-09 08:55:03,306 : INFO : Driver downloading response is 200
+2026-03-09 08:55:06,013 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:55:07,225 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-09 08:55:21,255 : INFO : Starting Test
+2026-03-09 08:55:21,256 : INFO : Login
+2026-03-09 08:55:25,046 : INFO : Add Product
+2026-03-09 08:55:27,300 : INFO : Continue Checkout
+2026-03-09 08:55:29,620 : INFO : Fill Shipping Address & Submit
+2026-03-09 08:55:32,429 : INFO : Wait for order confirmation page
+2026-03-09 08:55:34,540 : INFO : Download Receipt
+2026-03-09 08:55:38,784 : INFO : Continue Shopping
+2026-03-09 08:55:42,018 : INFO : Logout
+2026-03-09 08:56:21,585 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 08:56:23,465 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-09 08:56:34,209 : INFO : Starting Test
+2026-03-09 08:56:34,211 : INFO : Login
+2026-03-09 08:56:37,798 : INFO : Add Product
+2026-03-09 08:56:40,093 : INFO : Continue Checkout
+2026-03-09 08:56:42,265 : INFO : Fill Shipping Address & Submit
+2026-03-09 08:56:45,029 : INFO : Wait for order confirmation page
+2026-03-09 08:56:47,151 : INFO : Download Receipt
+2026-03-09 08:56:51,334 : INFO : Continue Shopping
+2026-03-09 08:56:54,556 : INFO : Logout
+2026-03-09 09:01:40,103 : INFO : xdist worker is: gw1
+2026-03-09 09:01:40,104 : INFO : ====== WebDriver manager ======
+2026-03-09 09:01:40,104 : INFO : ====== WebDriver manager ======
+2026-03-09 09:01:42,862 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:01:42,901 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:01:45,023 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:01:45,025 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:01:46,279 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:01:46,279 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:01:56,515 : INFO : Starting Test
+2026-03-09 09:01:56,516 : INFO : Login
+2026-03-09 09:01:57,153 : INFO : Starting Test
+2026-03-09 09:01:57,153 : INFO : Login
+2026-03-09 09:01:59,581 : INFO : Add Product
+2026-03-09 09:02:00,213 : INFO : Add Product
+2026-03-09 09:02:01,866 : INFO : Continue Checkout
+2026-03-09 09:02:02,842 : INFO : Continue Checkout
+2026-03-09 09:02:04,006 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:02:04,919 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:02:06,472 : INFO : Wait for order confirmation page
+2026-03-09 09:02:07,390 : INFO : Wait for order confirmation page
+2026-03-09 09:02:08,546 : INFO : Download Receipt
+2026-03-09 09:02:09,449 : INFO : Download Receipt
+2026-03-09 09:02:12,652 : INFO : Continue Shopping
+2026-03-09 09:02:13,573 : INFO : Continue Shopping
+2026-03-09 09:02:15,755 : INFO : Logout
+2026-03-09 09:02:16,677 : INFO : Logout
+2026-03-09 09:17:34,849 : INFO : xdist worker is: gw1
+2026-03-09 09:17:34,849 : INFO : ====== WebDriver manager ======
+2026-03-09 09:17:34,851 : INFO : xdist worker is: gw0
+2026-03-09 09:17:34,851 : INFO : ====== WebDriver manager ======
+2026-03-09 09:17:37,860 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:17:37,880 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:17:40,823 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:17:40,824 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:17:41,785 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:17:41,786 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:17:52,324 : INFO : Starting Test
+2026-03-09 09:17:52,324 : INFO : Login
+2026-03-09 09:17:52,906 : INFO : Starting Test
+2026-03-09 09:17:52,906 : INFO : Login
+2026-03-09 09:17:55,509 : INFO : Add Product
+2026-03-09 09:17:55,915 : INFO : Add Product
+2026-03-09 09:17:58,143 : INFO : Continue Checkout
+2026-03-09 09:17:58,532 : INFO : Continue Checkout
+2026-03-09 09:18:00,248 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:18:00,614 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:18:02,760 : INFO : Wait for order confirmation page
+2026-03-09 09:18:03,238 : INFO : Wait for order confirmation page
+2026-03-09 09:18:04,819 : INFO : Download Receipt
+2026-03-09 09:18:05,278 : INFO : Download Receipt
+2026-03-09 09:18:08,948 : INFO : Continue Shopping
+2026-03-09 09:18:09,486 : INFO : Continue Shopping
+2026-03-09 09:18:12,133 : INFO : Logout
+2026-03-09 09:18:12,588 : INFO : Logout
+2026-03-09 09:20:48,483 : INFO : xdist worker is: gw1
+2026-03-09 09:20:48,484 : INFO : ====== WebDriver manager ======
+2026-03-09 09:20:48,487 : INFO : xdist worker is: gw0
+2026-03-09 09:20:48,487 : INFO : ====== WebDriver manager ======
+2026-03-09 09:20:50,963 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:20:51,050 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:20:51,916 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:20:51,931 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:20:53,116 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:20:53,116 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:21:02,321 : INFO : Starting Test
+2026-03-09 09:21:02,321 : INFO : Login
+2026-03-09 09:21:02,619 : INFO : Starting Test
+2026-03-09 09:21:02,619 : INFO : Login
+2026-03-09 09:21:05,420 : INFO : Search Product - Sort by Lowest Price
+2026-03-09 09:21:05,616 : INFO : Search Product - Sort by Lowest Price
+2026-03-09 09:25:06,220 : INFO : xdist worker is: gw0
+2026-03-09 09:25:06,221 : INFO : ====== WebDriver manager ======
+2026-03-09 09:25:06,222 : INFO : xdist worker is: gw1
+2026-03-09 09:25:06,222 : INFO : ====== WebDriver manager ======
+2026-03-09 09:25:08,690 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:25:08,691 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:25:09,651 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:25:09,651 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:25:10,588 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:25:10,588 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:25:15,116 : INFO : Starting Test
+2026-03-09 09:25:15,116 : INFO : Login
+2026-03-09 09:25:19,431 : INFO : Starting Test
+2026-03-09 09:25:19,431 : INFO : Login
+2026-03-09 09:25:21,875 : INFO : Add Product
+2026-03-09 09:25:22,520 : INFO : Add Product
+2026-03-09 09:25:24,494 : INFO : Continue Checkout
+2026-03-09 09:25:25,159 : INFO : Continue Checkout
+2026-03-09 09:25:26,570 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:25:27,275 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:25:28,962 : INFO : Wait for order confirmation page
+2026-03-09 09:25:29,765 : INFO : Wait for order confirmation page
+2026-03-09 09:25:31,041 : INFO : Download Receipt
+2026-03-09 09:25:31,813 : INFO : Download Receipt
+2026-03-09 09:25:35,129 : INFO : Continue Shopping
+2026-03-09 09:25:35,899 : INFO : Continue Shopping
+2026-03-09 09:25:38,225 : INFO : Logout
+2026-03-09 09:25:39,005 : INFO : Logout
+2026-03-09 09:41:46,326 : INFO : xdist worker is: gw1
+2026-03-09 09:41:46,326 : INFO : xdist worker is: gw0
+2026-03-09 09:41:46,327 : INFO : ====== WebDriver manager ======
+2026-03-09 09:41:46,327 : INFO : ====== WebDriver manager ======
+2026-03-09 09:41:50,122 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:41:50,128 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:41:51,482 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:41:51,500 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:41:52,363 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:41:52,423 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:41:59,101 : INFO : Starting Test
+2026-03-09 09:41:59,103 : INFO : Login
+2026-03-09 09:41:59,237 : INFO : Starting Test
+2026-03-09 09:41:59,238 : INFO : Login
+2026-03-09 09:42:02,596 : INFO : Add Product
+2026-03-09 09:42:02,641 : INFO : Add Product
+2026-03-09 09:42:04,810 : INFO : Continue Checkout
+2026-03-09 09:42:04,904 : INFO : Continue Checkout
+2026-03-09 09:42:06,975 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:42:07,064 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:42:09,706 : INFO : Wait for order confirmation page
+2026-03-09 09:42:09,727 : INFO : Wait for order confirmation page
+2026-03-09 09:42:11,805 : INFO : Download Receipt
+2026-03-09 09:42:11,806 : INFO : Download Receipt
+2026-03-09 09:42:15,929 : INFO : Continue Shopping
+2026-03-09 09:42:15,931 : INFO : Continue Shopping
+2026-03-09 09:42:19,145 : INFO : Logout
+2026-03-09 09:42:19,167 : INFO : Logout
+2026-03-09 09:45:31,369 : INFO : xdist worker is: gw1
+2026-03-09 09:45:31,370 : INFO : ====== WebDriver manager ======
+2026-03-09 09:45:31,370 : INFO : xdist worker is: gw2
+2026-03-09 09:45:31,370 : INFO : ====== WebDriver manager ======
+2026-03-09 09:45:31,371 : INFO : xdist worker is: gw0
+2026-03-09 09:45:31,371 : INFO : ====== WebDriver manager ======
+2026-03-09 09:45:34,803 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:34,810 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:34,857 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:36,199 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:36,221 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:36,252 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:37,482 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:45:37,500 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:37,538 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 09:45:39,508 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-09 09:45:39,524 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 09:45:39,525 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 09:45:40,601 : INFO : Driver downloading response is 200
+2026-03-09 09:45:41,529 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 09:45:42,711 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-09 09:45:42,881 : INFO : Starting Test
+2026-03-09 09:45:42,881 : INFO : Login
+2026-03-09 09:45:43,019 : INFO : Starting Test
+2026-03-09 09:45:43,019 : INFO : Login
+2026-03-09 09:45:46,317 : INFO : Add Product
+2026-03-09 09:45:46,484 : INFO : Add Product
+2026-03-09 09:45:48,588 : INFO : Continue Checkout
+2026-03-09 09:45:48,745 : INFO : Continue Checkout
+2026-03-09 09:45:50,447 : INFO : Starting Test
+2026-03-09 09:45:50,447 : INFO : Login
+2026-03-09 09:45:50,756 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:45:50,901 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:45:53,510 : INFO : Wait for order confirmation page
+2026-03-09 09:45:53,778 : INFO : Wait for order confirmation page
+2026-03-09 09:45:54,183 : INFO : Add Product
+2026-03-09 09:45:55,605 : INFO : Download Receipt
+2026-03-09 09:45:55,875 : INFO : Download Receipt
+2026-03-09 09:45:56,438 : INFO : Continue Checkout
+2026-03-09 09:45:58,762 : INFO : Fill Shipping Address & Submit
+2026-03-09 09:45:59,763 : INFO : Continue Shopping
+2026-03-09 09:46:00,079 : INFO : Continue Shopping
+2026-03-09 09:46:01,718 : INFO : Wait for order confirmation page
+2026-03-09 09:46:03,060 : INFO : Logout
+2026-03-09 09:46:03,354 : INFO : Logout
+2026-03-09 09:46:03,852 : INFO : Download Receipt
+2026-03-09 09:46:08,062 : INFO : Continue Shopping
+2026-03-09 09:46:11,315 : INFO : Logout
+2026-03-09 11:06:12,187 : INFO : xdist worker is: gw1
+2026-03-09 11:06:12,188 : INFO : ====== WebDriver manager ======
+2026-03-09 11:06:12,205 : INFO : xdist worker is: gw0
+2026-03-09 11:06:12,207 : INFO : ====== WebDriver manager ======
+2026-03-09 11:06:12,210 : INFO : xdist worker is: gw2
+2026-03-09 11:06:12,210 : INFO : ====== WebDriver manager ======
+2026-03-09 11:06:16,447 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:06:16,474 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:06:16,490 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:06:18,826 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:06:18,856 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:06:18,914 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:06:20,632 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:06:20,712 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:06:20,717 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:06:27,463 : INFO : Starting Test
+2026-03-09 11:06:27,464 : INFO : Starting Test
+2026-03-09 11:06:27,464 : INFO : Starting Test
+2026-03-09 11:06:27,464 : INFO : Login
+2026-03-09 11:06:27,465 : INFO : Login
+2026-03-09 11:06:31,358 : INFO : Add Product
+2026-03-09 11:06:31,671 : INFO : Add Product
+2026-03-09 11:06:31,728 : INFO : Add Product
+2026-03-09 11:06:33,943 : INFO : Continue Checkout
+2026-03-09 11:06:34,208 : INFO : Continue Checkout
+2026-03-09 11:06:34,318 : INFO : Continue Checkout
+2026-03-09 11:06:36,518 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:06:37,452 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:06:37,488 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:06:39,524 : INFO : Wait for order confirmation page
+2026-03-09 11:06:40,733 : INFO : Wait for order confirmation page
+2026-03-09 11:06:40,741 : INFO : Wait for order confirmation page
+2026-03-09 11:06:41,625 : INFO : Download Receipt
+2026-03-09 11:06:42,917 : INFO : Download Receipt
+2026-03-09 11:06:42,936 : INFO : Download Receipt
+2026-03-09 11:06:45,958 : INFO : Continue Shopping
+2026-03-09 11:06:47,263 : INFO : Continue Shopping
+2026-03-09 11:06:47,263 : INFO : Continue Shopping
+2026-03-09 11:06:49,365 : INFO : Logout
+2026-03-09 11:06:50,766 : INFO : Logout
+2026-03-09 11:06:50,776 : INFO : Logout
+2026-03-09 11:09:46,464 : INFO : xdist worker is: gw1
+2026-03-09 11:09:46,467 : INFO : xdist worker is: gw2
+2026-03-09 11:09:46,468 : INFO : ====== WebDriver manager ======
+2026-03-09 11:09:46,468 : INFO : ====== WebDriver manager ======
+2026-03-09 11:09:46,470 : INFO : xdist worker is: gw0
+2026-03-09 11:09:46,471 : INFO : ====== WebDriver manager ======
+2026-03-09 11:09:50,500 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:09:50,585 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:09:50,610 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:09:52,310 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:09:52,617 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:09:52,644 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:09:53,953 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:09:54,484 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:09:54,579 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:10:00,638 : INFO : Starting Test
+2026-03-09 11:10:00,639 : INFO : Login
+2026-03-09 11:10:00,656 : INFO : Starting Test
+2026-03-09 11:10:00,656 : INFO : Login
+2026-03-09 11:10:01,779 : INFO : Starting Test
+2026-03-09 11:10:01,780 : INFO : Login
+2026-03-09 11:10:05,130 : INFO : Add Product
+2026-03-09 11:10:05,216 : INFO : Add Product
+2026-03-09 11:10:05,681 : INFO : Add Product
+2026-03-09 11:10:07,650 : INFO : Continue Checkout
+2026-03-09 11:10:07,742 : INFO : Continue Checkout
+2026-03-09 11:10:07,995 : INFO : Continue Checkout
+2026-03-09 11:10:10,190 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:10:10,332 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:10:10,495 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:10:13,733 : INFO : Wait for order confirmation page
+2026-03-09 11:10:13,769 : INFO : Wait for order confirmation page
+2026-03-09 11:10:14,055 : INFO : Wait for order confirmation page
+2026-03-09 11:10:15,856 : INFO : Download Receipt
+2026-03-09 11:10:15,880 : INFO : Download Receipt
+2026-03-09 11:10:16,204 : INFO : Download Receipt
+2026-03-09 11:10:20,159 : INFO : Continue Shopping
+2026-03-09 11:10:20,256 : INFO : Continue Shopping
+2026-03-09 11:10:20,527 : INFO : Continue Shopping
+2026-03-09 11:10:23,617 : INFO : Logout
+2026-03-09 11:10:23,787 : INFO : Logout
+2026-03-09 11:10:24,005 : INFO : Logout
+2026-03-09 11:11:59,375 : INFO : xdist worker is: gw0
+2026-03-09 11:11:59,376 : INFO : ====== WebDriver manager ======
+2026-03-09 11:11:59,378 : INFO : xdist worker is: gw1
+2026-03-09 11:11:59,380 : INFO : ====== WebDriver manager ======
+2026-03-09 11:11:59,392 : INFO : xdist worker is: gw2
+2026-03-09 11:11:59,393 : INFO : ====== WebDriver manager ======
+2026-03-09 11:12:03,412 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:12:03,456 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:12:03,523 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:12:04,690 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:12:04,737 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:12:04,918 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:12:06,055 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:12:06,164 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:12:06,254 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:12:12,770 : INFO : Starting Test
+2026-03-09 11:12:12,771 : INFO : Login
+2026-03-09 11:12:13,078 : INFO : Starting Test
+2026-03-09 11:12:13,079 : INFO : Login
+2026-03-09 11:12:13,348 : INFO : Starting Test
+2026-03-09 11:12:13,349 : INFO : Login
+2026-03-09 11:12:16,762 : INFO : Add Product
+2026-03-09 11:12:16,969 : INFO : Add Product
+2026-03-09 11:12:17,210 : INFO : Add Product
+2026-03-09 11:12:19,793 : INFO : Continue Checkout
+2026-03-09 11:12:19,796 : INFO : Continue Checkout
+2026-03-09 11:12:20,284 : INFO : Continue Checkout
+2026-03-09 11:12:22,303 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:12:22,306 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:12:22,697 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:12:25,519 : INFO : Wait for order confirmation page
+2026-03-09 11:12:25,614 : INFO : Wait for order confirmation page
+2026-03-09 11:12:25,998 : INFO : Wait for order confirmation page
+2026-03-09 11:12:27,684 : INFO : Download Receipt
+2026-03-09 11:12:27,766 : INFO : Download Receipt
+2026-03-09 11:12:28,365 : INFO : Download Receipt
+2026-03-09 11:12:31,877 : INFO : Continue Shopping
+2026-03-09 11:12:32,045 : INFO : Continue Shopping
+2026-03-09 11:12:32,648 : INFO : Continue Shopping
+2026-03-09 11:12:35,268 : INFO : Logout
+2026-03-09 11:12:35,510 : INFO : Logout
+2026-03-09 11:12:36,081 : INFO : Logout
+2026-03-09 11:14:18,958 : INFO : xdist worker is: gw2
+2026-03-09 11:14:18,960 : INFO : ====== WebDriver manager ======
+2026-03-09 11:14:18,960 : INFO : xdist worker is: gw0
+2026-03-09 11:14:18,961 : INFO : ====== WebDriver manager ======
+2026-03-09 11:14:18,965 : INFO : xdist worker is: gw1
+2026-03-09 11:14:18,966 : INFO : ====== WebDriver manager ======
+2026-03-09 11:14:22,844 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:14:22,876 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:14:23,098 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:14:24,396 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:14:24,411 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:14:24,498 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:14:25,985 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:14:25,997 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:14:26,092 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:14:28,961 : INFO : Starting Test
+2026-03-09 11:14:28,962 : INFO : Login
+2026-03-09 11:14:32,679 : INFO : Starting Test
+2026-03-09 11:14:32,680 : INFO : Login
+2026-03-09 11:14:33,191 : INFO : Starting Test
+2026-03-09 11:14:33,192 : INFO : Login
+2026-03-09 11:14:36,620 : INFO : Add Product
+2026-03-09 11:14:36,992 : INFO : Add Product
+2026-03-09 11:14:37,209 : INFO : Add Product
+2026-03-09 11:14:39,146 : INFO : Continue Checkout
+2026-03-09 11:14:39,540 : INFO : Continue Checkout
+2026-03-09 11:14:39,716 : INFO : Continue Checkout
+2026-03-09 11:14:41,574 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:14:42,076 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:14:42,118 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:14:45,142 : INFO : Wait for order confirmation page
+2026-03-09 11:14:46,013 : INFO : Wait for order confirmation page
+2026-03-09 11:14:46,085 : INFO : Wait for order confirmation page
+2026-03-09 11:14:47,273 : INFO : Download Receipt
+2026-03-09 11:14:48,231 : INFO : Download Receipt
+2026-03-09 11:14:48,329 : INFO : Download Receipt
+2026-03-09 11:14:51,533 : INFO : Continue Shopping
+2026-03-09 11:14:52,567 : INFO : Continue Shopping
+2026-03-09 11:14:52,663 : INFO : Continue Shopping
+2026-03-09 11:14:55,051 : INFO : Logout
+2026-03-09 11:14:56,065 : INFO : Logout
+2026-03-09 11:14:56,239 : INFO : Logout
+2026-03-09 11:16:52,585 : INFO : xdist worker is: gw1
+2026-03-09 11:16:52,588 : INFO : ====== WebDriver manager ======
+2026-03-09 11:16:52,592 : INFO : xdist worker is: gw2
+2026-03-09 11:16:52,594 : INFO : ====== WebDriver manager ======
+2026-03-09 11:16:52,598 : INFO : xdist worker is: gw0
+2026-03-09 11:16:52,599 : INFO : ====== WebDriver manager ======
+2026-03-09 11:16:56,521 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:16:56,672 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:16:56,705 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:16:57,868 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:16:58,004 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:16:58,099 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:16:59,120 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:16:59,459 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:16:59,546 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:17:02,216 : INFO : Starting Test
+2026-03-09 11:17:02,216 : INFO : Login
+2026-03-09 11:17:05,664 : INFO : Starting Test
+2026-03-09 11:17:05,664 : INFO : Login
+2026-03-09 11:17:05,987 : INFO : Starting Test
+2026-03-09 11:17:05,989 : INFO : Login
+2026-03-09 11:17:09,649 : INFO : Add Product
+2026-03-09 11:17:09,949 : INFO : Add Product
+2026-03-09 11:17:10,100 : INFO : Add Product
+2026-03-09 11:17:12,119 : INFO : Continue Checkout
+2026-03-09 11:17:12,332 : INFO : Continue Checkout
+2026-03-09 11:17:12,527 : INFO : Continue Checkout
+2026-03-09 11:17:14,530 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:17:14,832 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:17:14,878 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:17:17,993 : INFO : Wait for order confirmation page
+2026-03-09 11:17:18,457 : INFO : Wait for order confirmation page
+2026-03-09 11:17:18,457 : INFO : Wait for order confirmation page
+2026-03-09 11:17:20,154 : INFO : Download Receipt
+2026-03-09 11:17:20,833 : INFO : Download Receipt
+2026-03-09 11:17:20,901 : INFO : Download Receipt
+2026-03-09 11:17:24,440 : INFO : Continue Shopping
+2026-03-09 11:17:25,117 : INFO : Continue Shopping
+2026-03-09 11:17:25,153 : INFO : Continue Shopping
+2026-03-09 11:17:27,897 : INFO : Logout
+2026-03-09 11:17:28,539 : INFO : Logout
+2026-03-09 11:17:28,696 : INFO : Logout
+2026-03-09 11:39:28,064 : INFO : xdist worker is: gw2
+2026-03-09 11:39:28,066 : INFO : ====== WebDriver manager ======
+2026-03-09 11:39:28,066 : INFO : xdist worker is: gw1
+2026-03-09 11:39:28,067 : INFO : ====== WebDriver manager ======
+2026-03-09 11:39:28,071 : INFO : xdist worker is: gw0
+2026-03-09 11:39:28,072 : INFO : ====== WebDriver manager ======
+2026-03-09 11:39:31,962 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:39:31,962 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:39:31,975 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:39:33,757 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:39:33,967 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:39:33,971 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 11:39:35,280 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:39:35,685 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:39:35,686 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 11:39:40,715 : INFO : Starting Test
+2026-03-09 11:39:40,717 : INFO : Login
+2026-03-09 11:39:41,225 : INFO : Starting Test
+2026-03-09 11:39:41,225 : INFO : Login
+2026-03-09 11:39:41,240 : INFO : Starting Test
+2026-03-09 11:39:41,240 : INFO : Login
+2026-03-09 11:39:44,441 : INFO : Add Product
+2026-03-09 11:39:44,731 : INFO : Add Product
+2026-03-09 11:39:45,064 : INFO : Add Product
+2026-03-09 11:39:46,768 : INFO : Continue Checkout
+2026-03-09 11:39:47,069 : INFO : Continue Checkout
+2026-03-09 11:39:47,308 : INFO : Continue Checkout
+2026-03-09 11:39:48,969 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:39:49,265 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:39:49,430 : INFO : Fill Shipping Address & Submit
+2026-03-09 11:39:51,905 : INFO : Wait for order confirmation page
+2026-03-09 11:39:52,448 : INFO : Wait for order confirmation page
+2026-03-09 11:39:52,808 : INFO : Wait for order confirmation page
+2026-03-09 11:39:54,009 : INFO : Download Receipt
+2026-03-09 11:39:54,571 : INFO : Download Receipt
+2026-03-09 11:39:54,917 : INFO : Download Receipt
+2026-03-09 11:39:58,193 : INFO : Continue Shopping
+2026-03-09 11:39:58,825 : INFO : Continue Shopping
+2026-03-09 11:39:59,289 : INFO : Continue Shopping
+2026-03-09 11:40:01,429 : INFO : Logout
+2026-03-09 11:40:02,039 : INFO : Logout
+2026-03-09 11:40:02,551 : INFO : Logout
+2026-03-09 12:33:20,266 : INFO : xdist worker is: gw1
+2026-03-09 12:33:20,267 : INFO : ====== WebDriver manager ======
+2026-03-09 12:33:20,267 : INFO : xdist worker is: gw0
+2026-03-09 12:33:20,267 : INFO : xdist worker is: gw2
+2026-03-09 12:33:20,268 : INFO : ====== WebDriver manager ======
+2026-03-09 12:33:20,268 : INFO : ====== WebDriver manager ======
+2026-03-09 12:33:23,296 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 12:33:23,325 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 12:33:23,336 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 12:33:25,055 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 12:33:25,056 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 12:33:25,057 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-09 12:33:26,339 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 12:33:26,339 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 12:33:26,339 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 12:33:34,190 : INFO : Starting Test
+2026-03-09 12:33:34,190 : INFO : Login
+2026-03-09 12:33:34,422 : INFO : Starting Test
+2026-03-09 12:33:34,422 : INFO : Login
+2026-03-09 12:33:34,882 : INFO : Starting Test
+2026-03-09 12:33:34,882 : INFO : Login
+2026-03-09 12:33:37,837 : INFO : Add Product
+2026-03-09 12:33:38,410 : INFO : Add Product
+2026-03-09 12:33:38,735 : INFO : Add Product
+2026-03-09 12:33:40,159 : INFO : Continue Checkout
+2026-03-09 12:33:40,653 : INFO : Continue Checkout
+2026-03-09 12:33:41,077 : INFO : Continue Checkout
+2026-03-09 12:33:42,317 : INFO : Fill Shipping Address & Submit
+2026-03-09 12:33:42,783 : INFO : Fill Shipping Address & Submit
+2026-03-09 12:33:43,201 : INFO : Fill Shipping Address & Submit
+2026-03-09 12:33:44,798 : INFO : Wait for order confirmation page
+2026-03-09 12:33:45,350 : INFO : Wait for order confirmation page
+2026-03-09 12:33:45,761 : INFO : Wait for order confirmation page
+2026-03-09 12:33:46,865 : INFO : Download Receipt
+2026-03-09 12:33:47,444 : INFO : Download Receipt
+2026-03-09 12:33:47,865 : INFO : Download Receipt
+2026-03-09 12:33:50,986 : INFO : Continue Shopping
+2026-03-09 12:33:51,572 : INFO : Continue Shopping
+2026-03-09 12:33:52,040 : INFO : Continue Shopping
+2026-03-09 12:33:54,223 : INFO : Logout
+2026-03-09 12:33:54,793 : INFO : Logout
+2026-03-09 12:33:55,314 : INFO : Logout
+2026-03-10 10:01:37,285 : INFO : xdist worker is: gw1
+2026-03-10 10:01:37,288 : INFO : ====== WebDriver manager ======
+2026-03-10 10:01:37,289 : INFO : xdist worker is: gw2
+2026-03-10 10:01:37,289 : INFO : ====== WebDriver manager ======
+2026-03-10 10:01:38,756 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:38,757 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:38,759 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:40,258 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:40,262 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:40,269 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:41,400 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:41,401 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:41,403 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:43,838 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-10 10:01:43,843 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:01:43,843 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:01:43,844 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-10 10:01:43,851 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:01:43,851 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:01:43,858 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-10 10:01:43,863 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:01:43,863 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-10 10:01:45,040 : INFO : Driver downloading response is 200
+2026-03-10 10:01:45,041 : INFO : Driver downloading response is 200
+2026-03-10 10:01:45,042 : INFO : Driver downloading response is 200
+2026-03-10 10:01:48,425 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:48,802 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:49,007 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 10:01:49,056 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-10 10:01:49,649 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-10 10:01:49,721 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-10 10:01:54,353 : INFO : Starting Test
+2026-03-10 10:01:54,353 : INFO : Login
+2026-03-10 10:01:57,253 : INFO : Starting Test
+2026-03-10 10:01:57,254 : INFO : Login
+2026-03-10 10:01:57,790 : INFO : Starting Test
+2026-03-10 10:01:57,791 : INFO : Login
+2026-03-10 10:02:01,207 : INFO : Add Product
+2026-03-10 10:02:01,220 : INFO : Add Product
+2026-03-10 10:02:01,540 : INFO : Add Product
+2026-03-10 10:02:03,550 : INFO : Continue Checkout
+2026-03-10 10:02:03,621 : INFO : Continue Checkout
+2026-03-10 10:02:04,053 : INFO : Continue Checkout
+2026-03-10 10:02:05,707 : INFO : Fill Shipping Address & Submit
+2026-03-10 10:02:05,838 : INFO : Fill Shipping Address & Submit
+2026-03-10 10:02:06,246 : INFO : Fill Shipping Address & Submit
+2026-03-10 10:02:08,989 : INFO : Wait for order confirmation page
+2026-03-10 10:02:09,114 : INFO : Wait for order confirmation page
+2026-03-10 10:02:09,207 : INFO : Wait for order confirmation page
+2026-03-10 10:02:11,239 : INFO : Download Receipt
+2026-03-10 10:02:11,353 : INFO : Download Receipt
+2026-03-10 10:02:11,373 : INFO : Download Receipt
+2026-03-10 10:02:15,429 : INFO : Continue Shopping
+2026-03-10 10:02:16,063 : INFO : Continue Shopping
+2026-03-10 10:02:16,336 : INFO : Continue Shopping
+2026-03-10 10:02:18,592 : INFO : Logout
+2026-03-10 10:02:19,307 : INFO : Logout
+2026-03-10 10:02:19,535 : INFO : Logout
+2026-03-10 12:51:47,122 : INFO : xdist worker is: gw0
+2026-03-10 12:51:47,123 : INFO : ====== WebDriver manager ======
+2026-03-10 12:51:47,136 : INFO : xdist worker is: gw1
+2026-03-10 12:51:47,137 : INFO : ====== WebDriver manager ======
+2026-03-10 12:51:47,137 : INFO : ====== WebDriver manager ======
+2026-03-10 12:51:49,931 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:51:49,932 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:51:49,942 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:51:51,505 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:51:51,506 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:51:51,513 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:51:52,406 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-10 12:51:52,580 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-10 12:51:56,329 : INFO : Starting Test
+2026-03-10 12:51:56,330 : INFO : Login
+2026-03-10 12:51:56,634 : INFO : Starting Test
+2026-03-10 12:51:56,635 : INFO : Login
+2026-03-10 12:52:01,057 : INFO : Starting Test
+2026-03-10 12:52:01,058 : INFO : Login
+2026-03-10 12:52:04,690 : INFO : Add Product
+2026-03-10 12:52:04,808 : INFO : Add Product
+2026-03-10 12:52:06,952 : INFO : Continue Checkout
+2026-03-10 12:52:07,182 : INFO : Continue Checkout
+2026-03-10 12:52:07,489 : INFO : Add Product
+2026-03-10 12:52:09,223 : INFO : Fill Shipping Address & Submit
+2026-03-10 12:52:09,553 : INFO : Fill Shipping Address & Submit
+2026-03-10 12:52:09,965 : INFO : Continue Checkout
+2026-03-10 12:52:12,093 : INFO : Wait for order confirmation page
+2026-03-10 12:52:12,157 : INFO : Fill Shipping Address & Submit
+2026-03-10 12:52:12,441 : INFO : Wait for order confirmation page
+2026-03-10 12:52:15,119 : INFO : Wait for order confirmation page
+2026-03-10 12:53:56,053 : INFO : xdist worker is: gw0
+2026-03-10 12:53:56,053 : INFO : ====== WebDriver manager ======
+2026-03-10 12:53:56,045 : INFO : xdist worker is: gw2
+2026-03-10 12:53:56,059 : INFO : ====== WebDriver manager ======
+2026-03-10 12:53:56,084 : INFO : xdist worker is: gw1
+2026-03-10 12:53:56,085 : INFO : ====== WebDriver manager ======
+2026-03-10 12:53:57,339 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:53:57,361 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:53:57,377 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:53:58,598 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:53:58,663 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:53:58,664 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-10 12:53:59,534 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-10 12:53:59,645 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-10 12:53:59,651 : INFO : Driver [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-10 12:54:05,872 : INFO : Starting Test
+2026-03-10 12:54:05,873 : INFO : Login
+2026-03-10 12:54:06,039 : INFO : Starting Test
+2026-03-10 12:54:06,039 : INFO : Login
+2026-03-10 12:54:06,367 : INFO : Starting Test
+2026-03-10 12:54:06,368 : INFO : Login
+2026-03-10 12:54:09,455 : INFO : Add Product
+2026-03-10 12:54:09,672 : INFO : Add Product
+2026-03-10 12:54:10,151 : INFO : Add Product
+2026-03-10 12:54:11,729 : INFO : Continue Checkout
+2026-03-10 12:54:11,955 : INFO : Continue Checkout
+2026-03-10 12:54:12,566 : INFO : Continue Checkout
+2026-03-10 12:54:13,988 : INFO : Fill Shipping Address & Submit
+2026-03-10 12:54:14,172 : INFO : Fill Shipping Address & Submit
+2026-03-10 12:54:14,818 : INFO : Fill Shipping Address & Submit
+2026-03-10 12:54:17,047 : INFO : Wait for order confirmation page
+2026-03-10 12:54:17,133 : INFO : Wait for order confirmation page
+2026-03-10 12:54:17,722 : INFO : Wait for order confirmation page
+2026-03-10 12:54:19,248 : INFO : Download Receipt
+2026-03-10 12:54:19,439 : INFO : Download Receipt
+2026-03-10 12:54:19,878 : INFO : Download Receipt
+2026-03-10 12:54:23,569 : INFO : Continue Shopping
+2026-03-10 12:54:23,838 : INFO : Continue Shopping
+2026-03-10 12:54:24,247 : INFO : Continue Shopping
+2026-03-10 12:54:26,852 : INFO : Logout
+2026-03-10 12:54:27,232 : INFO : Logout
+2026-03-10 12:54:27,575 : INFO : Logout
+2026-03-12 14:07:56,688 : INFO : xdist worker is: gw1
+2026-03-12 14:07:56,689 : INFO : ====== WebDriver manager ======
+2026-03-12 14:07:56,690 : INFO : ====== WebDriver manager ======
+2026-03-12 14:07:56,690 : INFO : ====== WebDriver manager ======
+2026-03-12 14:07:59,245 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:07:59,269 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:07:59,337 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:01,080 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:01,088 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:01,134 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:02,700 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:02,744 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:02,788 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:06,841 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-12 14:08:06,848 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-12 14:08:06,849 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-12 14:08:06,963 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-12 14:08:06,971 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-12 14:08:06,972 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-12 14:08:07,172 : INFO : WebDriver version 145.0.7632.117 selected
+2026-03-12 14:08:07,184 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-12 14:08:07,186 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-12 14:08:09,010 : INFO : Driver downloading response is 200
+2026-03-12 14:08:09,091 : INFO : Driver downloading response is 200
+2026-03-12 14:08:09,202 : INFO : Driver downloading response is 200
+2026-03-12 14:08:09,664 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:10,078 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:10,275 : INFO : Get LATEST chromedriver version for google-chrome
+2026-03-12 14:08:11,882 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw2\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-12 14:08:12,538 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw1\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-12 14:08:12,749 : INFO : Driver has been saved in cache [C:\Users\MUSKAN MISHRA\.wdm\gw0\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-12 14:08:24,565 : INFO : Starting Test
+2026-03-12 14:08:24,566 : INFO : Login
+2026-03-12 14:08:25,624 : INFO : Starting Test
+2026-03-12 14:08:25,628 : INFO : Login
+2026-03-12 14:08:25,687 : INFO : Starting Test
+2026-03-12 14:08:25,689 : INFO : Login
+2026-03-12 14:08:31,205 : INFO : Add Product
+2026-03-12 14:08:31,673 : INFO : Add Product
+2026-03-12 14:08:31,711 : INFO : Add Product
+2026-03-12 14:08:34,267 : INFO : Continue Checkout
+2026-03-12 14:08:34,628 : INFO : Continue Checkout
+2026-03-12 14:08:34,766 : INFO : Continue Checkout
+2026-03-12 14:08:36,744 : INFO : Fill Shipping Address & Submit
+2026-03-12 14:08:37,317 : INFO : Fill Shipping Address & Submit
+2026-03-12 14:08:37,482 : INFO : Fill Shipping Address & Submit
+2026-03-12 14:08:43,721 : INFO : Wait for order confirmation page
+2026-03-12 14:08:44,012 : INFO : Wait for order confirmation page
+2026-03-12 14:08:44,591 : INFO : Wait for order confirmation page
+2026-03-12 14:08:46,347 : INFO : Download Receipt
+2026-03-12 14:08:46,579 : INFO : Download Receipt
+2026-03-12 14:08:46,994 : INFO : Download Receipt
+2026-03-12 14:08:51,602 : INFO : Continue Shopping
+2026-03-12 14:08:51,604 : INFO : Continue Shopping
+2026-03-12 14:08:53,918 : INFO : Continue Shopping
+2026-03-12 14:08:56,139 : INFO : Logout
+2026-03-12 14:08:56,588 : INFO : Logout
+2026-03-12 14:08:58,230 : INFO : Logout
